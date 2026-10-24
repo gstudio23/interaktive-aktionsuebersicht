@@ -1,0 +1,34 @@
+<!doctype html>
+<html lang="de">
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Details zu einer Aktion des Community-Projekts.">
+  <title>Aktion · Interaktive Aktionsübersicht</title>
+  <link rel="stylesheet" href="style.css?v=10">
+  <script src="aktion.js?v=3" defer></script>
+</head>
+
+<body>
+  <main class="wrap detail-page">
+    <a class="corner-logo" href="index.html" aria-label="Zur Aktionsübersicht"><img src="assets/mi-logo.png"
+        alt="Medieninformatik-Logo"></a>
+    <a class="back-link" href="index.html"><span class="back-link-icon" aria-hidden="true">←</span>Zurück zur Übersicht</a>
+    <header class="intro">
+      <p class="eyebrow">Community-Projekt · Aktion</p>
+      <h1 id="detail-title">Aktion laden …</h1>
+    </header>
+    <article id="detail-panel" class="detail-panel" hidden>
+      <div id="detail-meta" class="detail-meta" aria-label="Angaben zur Aktion"></div>
+      <div id="detail-content" class="detail-content"></div>
+      <a id="detail-link" class="detail-action" target="_blank" rel="noopener noreferrer">Zum Original-Issue in
+        GitLab</a>
+      <p class="detail-note">Für die Anmeldung und aktuelle Änderungen ist das Original-Issue maßgeblich.</p>
+    </article>
+    <p id="detail-error" class="message" hidden>Diese Aktion konnte nicht geladen werden. Bitte gehe zurück zur
+      Übersicht.</p>
+  </main>
+</body>
+
+</html>

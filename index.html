@@ -1,0 +1,104 @@
+<!doctype html>
+<html lang="de">
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Aktionen des Community-Projekts suchen und filtern.">
+  <title>Interaktive Aktionsübersicht</title>
+  <link rel="stylesheet" href="style.css?v=10">
+  <script src="script.js?v=8" defer></script>
+</head>
+
+<body>
+  <main class="wrap">
+    <a class="corner-logo" href="index.html" aria-label="Zur Aktionsübersicht"><img src="assets/mi-logo.png"
+        alt="Medieninformatik-Logo"></a>
+    <header class="intro">
+      <p class="eyebrow">Community-Projekt · TH Köln</p>
+      <h1>Interaktive Aktionsübersicht</h1>
+      <p>Finde eine passende Aktion. Jede Karte führt zu einer eigenen Seite mit den wichtigsten Informationen.</p>
+    </header>
+
+    <section class="filters" aria-label="Aktionen filtern">
+      <label for="search">Aktion suchen</label>
+      <input id="search" type="search" placeholder="Zum Beispiel: Video">
+
+      <div class="filter-grid">
+        <div class="filter">
+          <span class="filter-label" id="points-label">Punkte</span>
+          <details id="points-filter" class="choice-filter">
+            <summary aria-labelledby="points-label points-value"><span id="points-value">Alle</span></summary>
+            <div id="points-options" class="choice-options"></div>
+          </details>
+        </div>
+        <div class="filter">
+          <span class="filter-label" id="team-label">Teamgröße</span>
+          <details id="team-filter" class="choice-filter">
+            <summary aria-labelledby="team-label team-value"><span id="team-value">Alle</span></summary>
+            <div id="team-options" class="choice-options"></div>
+          </details>
+        </div>
+        <div class="filter">
+          <span class="filter-label" id="status-label">Status</span>
+          <details id="status-filter" class="choice-filter">
+            <summary aria-labelledby="status-label status-value"><span id="status-value">Alle</span></summary>
+            <div id="status-options" class="choice-options"></div>
+          </details>
+        </div>
+        <div class="filter">
+          <span class="filter-label" id="scope-label">Wirkungskreis</span>
+          <details id="scope-filter" class="multi-filter">
+            <summary aria-labelledby="scope-label"><span id="scope-summary">Alle</span></summary>
+            <div id="scope-options" class="scope-options"></div>
+          </details>
+        </div>
+      </div>
+
+      <div id="selected-scopes" class="selected-scopes" hidden>
+        <strong>Ausgewählte Wirkungskreise</strong>
+        <div id="scope-chips" class="chips"></div>
+      </div>
+      <button id="reset" class="reset" type="button" disabled><span class="reset-icon" aria-hidden="true">↺</span>Alle Filter zurücksetzen</button>
+    </section>
+
+    <section aria-labelledby="results-title">
+      <div class="results-heading">
+        <div class="results-title">
+          <h2 id="results-title">Aktionen</h2>
+          <button id="surprise" class="surprise" type="button" disabled>🎲 Such du aus</button>
+        </div>
+        <label class="catchup-switch" for="catchup">
+          <input id="catchup" type="checkbox" role="switch">
+          <span class="switch-track" aria-hidden="true"></span>
+          <span>Zum Punkte-Nachholen</span>
+        </label>
+      </div>
+      <div id="random-result" class="random-result" role="status" aria-live="polite" hidden>
+        <div class="random-copy">
+          <span class="random-label">Der Zufall hat entschieden</span>
+          <strong id="random-title" class="random-title"></strong>
+          <div id="random-meta" class="random-meta"></div>
+        </div>
+        <div class="random-side">
+          <a id="random-link" class="random-link" href="#">Aktion ansehen <span aria-hidden="true">→</span></a>
+          <span class="random-note">Nicht dein Ding? Würfle noch mal.</span>
+        </div>
+      </div>
+      <p id="count" class="sr-only" role="status" aria-live="polite"></p>
+      <ul id="actions" class="actions"></ul>
+      <p id="empty" class="message" hidden>Keine passenden Aktionen gefunden.</p>
+      <p id="error" class="message" hidden>Die Aktionsdaten konnten nicht geladen werden. Bitte die Seite über den
+        lokalen Webserver öffnen.</p>
+    </section>
+
+    <footer>
+      Datenquelle: <a
+        href="https://git-ce.rwth-aachen.de/micgn/community-game/community-game-core/-/work_items">Community Game auf
+        GitLab</a>.
+      Die gespeicherten Angaben können sich ändern; maßgeblich ist das verlinkte Issue.
+    </footer>
+  </main>
+</body>
+
+</html>
