@@ -1,0 +1,1412 @@
+[
+  {
+    "id": 46,
+    "title": "!!! TERMINVERSCHIEBUNG Video Workshop mit Simon",
+    "url": "https://git-ce.rwth-aachen.de/micgn/community-game/community-game-core/-/work_items/46",
+    "points": [
+      10
+    ],
+    "scopes": [
+      "Modul"
+    ],
+    "teams": [
+      "Miniteam"
+    ],
+    "status": "Accepted",
+    "state": "opened",
+    "term": null,
+    "description": "Praxisorientierter Workshop mit Simon Porten rund um Audio- und Videoproduktion. Im Fokus stehen verschiedene Geräte und Tools, mit denen sich die Produktionsqualität deutlich verbessern lässt: unterschiedliche Mikrofone, Kameras und Gimbals werden vorgestellt und ausprobiert. Er",
+    "details": "Praxisorientierter Workshop mit Simon Porten rund um Audio- und Videoproduktion. Im Fokus stehen verschiedene Geräte und Tools, mit denen sich die Produktionsqualität deutlich verbessern lässt: unterschiedliche Mikrofone, Kameras und Gimbals werden vorgestellt und ausprobiert. Ergänzend geht es um Schnitt und Nachbearbeitung: Worauf sollte man beim Dreh achten, damit der Schnitt gelingt, und welche Tools und Kniffe helfen im Editing? Ziel ist, den Teilnehmenden das Handwerkszeug an die Hand zu geben, um eigene Videoprojekte auf ein professionelleres Niveau zu heben.\n\n## Zielgruppe\n\n- Studierende des Moduls „Communityprojekt\"\n\n## Ziel des Workshops\n\n- Kennenlernen professioneller Audio- und Videotechnik (Mikrofone, Kameras, Gimbals)\n- Verständnis für Bild- und Tonqualität im Produktionsprozess entwickeln\n- Grundlagen zu Schnitt und Nachbearbeitung\n- Sensibilisierung dafür, worauf beim Dreh geachtet werden muss, damit der Schnitt gelingt\n\n## Workshopleitung\n\n- Simon Porten\n\n## Teamgröße\n\n- Maximal 20 Teilnehmende\n\n## Termin & Ort\n\n- Termin: ~~06.08. 10:00~~ -> VERSCHOBEN AUF DEN 07.09.2026\n- Dauer: 6 Stunden\n- Ort: Campus Gummersbach\n\n## TERMINVERSCHIEBUNG\nKrankheitsbedingt muss der Workshop für Audio-visuelle Medien von Simon Porten von morgen (06.08.2026) nach hinten verschoben werden :( \nDer Simon hat zwei Tage zur Auswahl, an denen er den Workshop alternativ anbieten kann: 07.09.2026 ODER 24.09.2026  Bitte tragt euch in der Liste im ILU ins Etherpad ein, wann es euch am besten passen würde. Der Workshop wird dann an dem Datum stattfinden, an dem die größere Bereitschaft besteht: https://ilu.th-koeln.de/ilias.php?baseClass=ilobjplugindispatchgui&cmdNode=q7:nn&cmdClass=ilObjEtherpadLiteGUI&cmd=showContent&ref_id=876181\n\n## Benötigte Materialien & Ressourcen\n\n- Rechner mit Schnittsoftware (DaVinci Resolve)\n- ggf. eigene Kamera\n\n## Definition of Done\n\n- Teilnahme am kompletten Workshop am 06.08. (6 Stunden, inkl. Praxisteil und Schnitt-Einheit)\n- Aktive Mitarbeit in den praktischen Übungen (Mikrofone, Kameras, Gimbals ausprobiert)\n- Am Workshoptag wurde in einer Kleingruppe (2–3 Personen) ein Film-Schnipsel produziert (Dreh und Schnitt), der veröffentlichungsfähig ist (z. B. für Insta-Post oder Studiengangs-Kanäle)\n- Dokumentation der Teilnahme erfolgt im Portfolio",
+    "catchup": false
+  },
+  {
+    "id": 20,
+    "title": "\"Grillen und Chillen am See\" - organisieren",
+    "url": "https://git-ce.rwth-aachen.de/micgn/community-game/community-game-core/-/work_items/20",
+    "points": [
+      3,
+      5
+    ],
+    "scopes": [
+      "Modul"
+    ],
+    "teams": [
+      "Miniteam",
+      "Single"
+    ],
+    "status": "",
+    "state": "opened",
+    "term": null,
+    "description": "Beschreibung: Das Team organisiert einen Grillabend an der Aggertalsperre (nah an Gummersbach). Zielgruppe:",
+    "details": "**Beschreibung:**\n\nDas Team organisiert einen Grillabend an der Aggertalsperre (nah an Gummersbach). \n\n**Zielgruppe:**\n- alle\n\n**Ziel des Workshops:**\n- Zeit miteinander verbringen\n- Kennenlernen\n\n**Teamgröße:**\n- 2 bis 3 Personen\n\n**Vorbereitungsaufwand:**\n- Grill vorbereiten\n- jeder der kommt bringt was mit\n\n**Ort der Aktion:**\n- Aggertalsperre\n\n**Dauer der Durchführung:**\n- offen\n\n**Benötigte Materialien & Ressourcen**\n- Grill\n- Getränke\n- Essen\n- Musikbox\n- Spiele\n\n**Punkte Vergabe:**\n- Organisation: 5 Punkte\n- Teilnahme: 3 Punkte\n\n**Definition of Done**\n- Grillabend vorbereitet\n\n[cp-grillen-see.pdf](/uploads/25a44edc4eb4ddd5d4b92d98232486bb/cp-grillen-see.pdf)",
+    "catchup": false
+  },
+  {
+    "id": 36,
+    "title": "(Online) Serienabend/-club",
+    "url": "https://git-ce.rwth-aachen.de/micgn/community-game/community-game-core/-/work_items/36",
+    "points": [
+      3,
+      5
+    ],
+    "scopes": [
+      "Modul",
+      "Studiengang"
+    ],
+    "teams": [
+      "Miniteam",
+      "Single"
+    ],
+    "status": "Proposal",
+    "state": "opened",
+    "term": null,
+    "description": "Gemeinsames Treffen zum schauen/besprechen einer ausgewählten Serien/Folgen. Es ist Ihnen überlassen, ob diese Aktion online oder vor Ort stattfinden soll. Oder ob die Folge(n) vor dem Treffen geschaut werden und beim Treffen \"nur\" darüber gequatscht wird. Ziel der Aktion:",
+    "details": "Gemeinsames Treffen zum schauen/besprechen einer ausgewählten Serien/Folgen.\nEs ist Ihnen überlassen, ob diese Aktion online oder vor Ort stattfinden soll. Oder ob die Folge(n) vor dem Treffen geschaut werden und beim Treffen \"nur\" darüber gequatscht wird.\n\n## Ziel der Aktion:\n- Austausch über Serie(n) und damit verbundenes Interesse  \n\n## Teamgröße:\n- 2 bis 3 Personen\n\n## Vorbereitungsaufwand\n\n### Orga-Team (2–3 Personen, einmalig + laufend)\n\n- Konzept festlegen: Format, Rhythmus, Serienauswahl-Verfahren (z. B. gemeinsame Abstimmung, rotierender Vorschlag)\n- Erste Termine festlegen, idealerweise als Serie über das Semester\n- Raum für jeden Termin sichern (Bib, Modulraum, Online o. Ä.)\n- Kommunikationskanal aufsetzen (Slack-Channel, Mailingliste, Kalender-Einladung)\n- Einladungen und Erinnerungen rechtzeitig versenden, Serien-/Folgenauswahl pro Termin moderieren\n- Treffen leichtgewichtig dokumentieren (Foto, ein paar Stichworte zur besprochenen Serie)\n\n### Teilnehmer:innen (pro Treffen)\n\n- Vereinbarte Serie/Folge(n) wurde geschaut\n- Eigene Gedanken, Fragen oder Empfehlungen zur Serie/Folge(n) mitgebracht\n\n## Mitwirkung \n- Orga-Team: bitte in die Kommentare eintragen und @anna.stein markieren\n- Teilnehmer:innen: bitte in die Kommentare eintragen\n\n## Definition of Done\n\n### Orga-Team (einmalig, 5 Punkte)\n\n- Konzept des Serien-Clubs ist dokumentiert (Format, Rhythmus, Serienauswahl-Verfahren)\n- Mindestens 3 Termine sind angesetzt und im Studiengang kommuniziert\n- Mindestens 3 Treffen haben tatsächlich stattgefunden (sonst gilt der Serien-Club nicht als „durchgeführt\")\n- Räume bzw. Online-Setups waren bei jedem Treffen verfügbar\n- Kommunikationskanal ist aufgesetzt und wird gepflegt\n- Kurzdokumentation der Treffen für sich erstellen (in Form eines Tagebuchs/PDF o.Ä.) \n\n### Teilnahme (pro Treffen, 3 Punkte)\n\n- Vereinbarte Serie/Folge(n) wurde geschaut\n- An dem Treffen wurde teilgenommen\n- Aktiver Beitrag zum Austausch (eigene Gedanken, Fragen oder Perspektive eingebracht, nicht nur Anwesenheit)",
+    "catchup": false
+  },
+  {
+    "id": 43,
+    "title": ",,Kusama-Connect\"-Ausstellung im Museum Ludwig besuchen",
+    "url": "https://git-ce.rwth-aachen.de/micgn/community-game/community-game-core/-/work_items/43",
+    "points": [
+      5
+    ],
+    "scopes": [
+      "Campus",
+      "Modul",
+      "Studiengang"
+    ],
+    "teams": [
+      "Miniteam",
+      "Single"
+    ],
+    "status": "Proposal",
+    "state": "closed",
+    "term": null,
+    "description": "Gemeinsamer Besuch der Yayoi Kusama Ausstellung im Museum Ludwig in Köln. Ziel der Aktion: Förderung des kulturellen Austauschs",
+    "details": "Gemeinsamer Besuch der Yayoi Kusama Ausstellung im Museum Ludwig in Köln.\n\n## Ziel der Aktion:\n- Förderung des kulturellen Austauschs\n- Vernetzung der Studierenden\n\n## Teamgröße:\n- 2 Personen\n\n## Definition of Done\n\n### Orga-Team (einmalig, 5 Punkte)\n\n- Terminplanung\n- Tickets organisieren\n- Kommunikationskanal bereitstellen\n\n### Teilnahme (5 Punkte)\n\n- am Termin teilgenommen und kleines Video gedreht von den Eindrücken (Falls erlaubt im Museum)",
+    "catchup": false
+  },
+  {
+    "id": 64,
+    "title": "Alumni-Porträts: Was bleibt vom Studium?",
+    "url": "https://git-ce.rwth-aachen.de/micgn/community-game/community-game-core/-/work_items/64",
+    "points": [
+      10
+    ],
+    "scopes": [
+      "Studiengang"
+    ],
+    "teams": [
+      "Single"
+    ],
+    "status": "Accepted",
+    "state": "opened",
+    "term": null,
+    "description": "Was machen Medieninformatiker:innen ein paar Jahre nach dem Abschluss? Und welche Rolle haben Netzwerk und Community im Studium für ihren Weg gespielt? Diese Aktion holt Alumni zurück in den Studiengang, zumindest als Porträt. Die Porträts werden auf der Website und in Social Med",
+    "details": "Was machen Medieninformatiker:innen ein paar Jahre nach dem Abschluss? Und welche Rolle haben Netzwerk und Community im Studium für ihren Weg gespielt? Diese Aktion holt Alumni zurück in den Studiengang, zumindest als Porträt. Die Porträts werden auf der Website und in Social Media genutzt.\n\n## Wirkungskreis\n\n- Studiengang\n\n## Zielgruppe\n\n- Alle Teilnehmenden des Community-Projekt-Moduls\n\n## Ziel der Aktion\n\n- Wege von Alumni sichtbar machen und Studierenden Orientierung geben\n- Kontakt zwischen Studiengang und Alumni stärken\n- Material für Website und Social Media produzieren\n\n## Teamgröße\n\n- 1 Person\n- Diese Aktion kann mehrfach durchgeführt werden, jeweils mit anderen Alumni\n\n## Aufgaben\n\n- Drei Alumni der Medieninformatik finden und anfragen, z. B. über LinkedIn oder Abschlussarbeiten\n- Interviews von 20 bis 30 Minuten führen. Leitfragen: Was machen Sie heute? Welche Rolle haben Netzwerk und Community im Studium gespielt? Was vermissen Sie? Welchen Tipp haben Sie für heutige Studierende?\n- Porträtfoto selbst machen oder ein freigegebenes Foto einholen\n- Drei Porträtkarten in einheitlichem Layout gestalten\n\n## Definition of Done\n\n- Drei Porträts liegen in einheitlichem Layout vor, jeweils mit Foto, Kurzbiografie und drei bis vier Zitaten\n- Die Porträts liegen als Bilddateien (für Social Media) und als Text (für die Website) vor\n- Alle Porträtierten haben Text und Foto schriftlich zur Veröffentlichung freigegeben\n- Bitte keine KI-generierten Texte. Uns interessiert Ihr Blick, nicht der eines Sprachmodells\n- Abschluss: eine Sprachnachricht oder ein Video von maximal 2 Minuten: Was haben Sie aus den Gesprächen mitgenommen?\n- Alle Ergebnisse sind im Issue verlinkt\n\n## Punktevergabe\n\n- 10 Punkte\n\n## Mitwirkung\n\n- Bitte tragen Sie sich mit Namen und den angefragten Alumni in den Kommentaren ein, damit niemand doppelt angefragt wird.",
+    "catchup": true
+  },
+  {
+    "id": 62,
+    "title": "Auswertung Community-Projekt SoSe 2026",
+    "url": "https://git-ce.rwth-aachen.de/micgn/community-game/community-game-core/-/work_items/62",
+    "points": [
+      12
+    ],
+    "scopes": [
+      "Modul"
+    ],
+    "teams": [
+      "Single"
+    ],
+    "status": "Accepted",
+    "state": "opened",
+    "term": null,
+    "description": "Im Sommersemester 2026 sind viele Aktionen gelaufen: manche richtig gut, manche sind eingeschlafen. Diese Aktion schaut mit Daten auf das Semester zurück. Was hat funktioniert, welche Wirkungskreise wurden erreicht, wo lohnt es sich nachzuschärfen? Die Ergebnisse fließen direkt i",
+    "details": "Im Sommersemester 2026 sind viele Aktionen gelaufen: manche richtig gut, manche sind eingeschlafen. Diese Aktion schaut mit Daten auf das Semester zurück. Was hat funktioniert, welche Wirkungskreise wurden erreicht, wo lohnt es sich nachzuschärfen? Die Ergebnisse fließen direkt in den nächsten Durchlauf ein.\n\n## Wirkungskreis\n\n- Modul\n\n## Zielgruppe\n\n- Alle Teilnehmenden des Community-Projekt-Moduls\n\n## Ziel der Aktion\n\n- Das Semester datenbasiert auswerten\n- Erfolgreiche und weniger erfolgreiche Aktionen identifizieren\n- Konkrete Empfehlungen für den nächsten Durchlauf erarbeiten\n\n## Teamgröße\n\n- 1 Person\n- Diese Aktion kann nur einmal vergeben werden\n\n## Aufgaben\n\n- Alle Issues aus dem SoSe 2026 sichten\n- Pro Aktion erfassen: Titel, Punkte, Wirkungskreis, Anzahl Mitwirkende, Status (abgeschlossen, eingeschlafen, nie gestartet), Zeitpunkt. Punkte, Wirkungskreis, Teamgröße und Status stehen als Labels an den Issues, die Mitwirkenden in den Kommentaren\n- Daten auswerten und als Infografik oder kleines Dashboard aufbereiten\n- Mit mindestens drei Teilnehmenden kurz sprechen: Warum haben Sie welche Aktionen gewählt, was hat Sie abgeschreckt?\n- Empfehlungen ableiten\n\n## Definition of Done\n\n- Die Datentabelle liegt als CSV vor\n- Eine Infografik oder ein Dashboard zeigt mindestens: Verteilung der Punkte, Verteilung auf die Wirkungskreise, Anteil abgeschlossener Aktionen, zeitlichen Verlauf über das Semester\n- Top 5 und Flop 5 der Aktionen sind benannt und begründet\n- O-Töne von mindestens drei Teilnehmenden sind enthalten\n- Drei bis fünf Empfehlungen für den nächsten Durchlauf liegen vor\n- Es werden keine Punktestände einzelner Personen veröffentlicht\n- Bitte keine KI-generierten Texte. Uns interessiert Ihr Blick, nicht der eines Sprachmodells\n- Abschluss: eine Sprachnachricht oder ein Video von maximal 2 Minuten, in dem Sie das Ergebnis vorstellen\n- Alle Ergebnisse sind im Issue verlinkt\n\n## Punktevergabe\n\n- 12 Punkte\n\n## Mitwirkung\n\n- Bitte tragen Sie sich mit Namen in den Kommentaren ein. Wer sich zuerst einträgt, bekommt die Aktion.",
+    "catchup": true
+  },
+  {
+    "id": 53,
+    "title": "Basketball-Turnier",
+    "url": "https://git-ce.rwth-aachen.de/micgn/community-game/community-game-core/-/work_items/53",
+    "points": [
+      5,
+      10
+    ],
+    "scopes": [
+      "Campus",
+      "Modul",
+      "Studiengang"
+    ],
+    "teams": [
+      "Miniteam",
+      "Single"
+    ],
+    "status": "Accepted",
+    "state": "opened",
+    "term": null,
+    "description": "Beschreibung: Das Team organisiert ein Basketball-Turnier und führt dieses auch durch. Das Basketball-Turnier findet zwischen der verschiedenen Studiengängen der TH-Köln statt. Zielgruppe:",
+    "details": "**Beschreibung:**\n\nDas Team organisiert ein Basketball-Turnier und führt dieses auch durch. Das Basketball-Turnier findet zwischen der verschiedenen Studiengängen der TH-Köln statt.\n\n**Zielgruppe:**\n- alle die Interesse an Basketball haben\n\n**Ziel der Aktion:**\n- Kennenlernen \n- Kontakte knüpfen\n\n**Teamgröße:**\n- 3-4 Personen (organisation)\n\n**Vorbereitungsaufwand:**\n- Spielfeld/ -Halle organisieren\n- Termin vereinbaren\n- Bälle, Pokale organisieren\n\n**Ort der Aktion:**\n- noch offen\n\n**Dauer der Durchführung:**\n- 1-2 Stunden\n\n**Benötigte Materialien & Ressourcen:**\n- Spielfeld/ -Halle\n- Bälle, Pokale\n- Verpflegung\n\n**Punktevergabe:**\n- für die Organisation: 10 Punkte\n- für die Teilnahme: 5 Punkte\n\n**Definition of Done**\n- Turnier vorbereitet und organisiert\n- Turnier durchgeführt\n- Ein paar Bilder und ein kurzes Video vom Event. [Upload Link](https://th-koeln.sciebo.de/s/ctaKZ3NRRAEk6Za)",
+    "catchup": false
+  },
+  {
+    "id": 40,
+    "title": "Bergische Runde - Entspannte Radtour ab Gummersbach",
+    "url": "https://git-ce.rwth-aachen.de/micgn/community-game/community-game-core/-/work_items/40",
+    "points": [
+      7,
+      10
+    ],
+    "scopes": [
+      "Modul",
+      "Studiengang"
+    ],
+    "teams": [
+      "Miniteam",
+      "Single"
+    ],
+    "status": "Accepted",
+    "state": "opened",
+    "term": null,
+    "description": "Eine gemeinsame Radtour ab Gummersbach durch das Bergische Land. Die Route wird vorab geplant und auf ein Niveau abgestimmt, sodass alle mitfahren können. Während der Tour sind gemeinsame Stopps eingeplant, etwa an einem Café oder an einer schönen Aussicht. Neben Bewegung und Nat",
+    "details": "Eine gemeinsame Radtour ab Gummersbach durch das Bergische Land. Die Route wird vorab geplant und auf ein Niveau abgestimmt, sodass alle mitfahren können. Während der Tour sind gemeinsame Stopps eingeplant, etwa an einem Café oder an einer schönen Aussicht. Neben Bewegung und Naturerlebnis geht es um lockeren Austausch und das gemeinsame Erkunden der Region.\n\n## Zielgruppe\n\n- Studierende des Moduls „Communityprojekt\"\n- Alle Mitglieder des Campus Gummersbach, die Lust auf eine gemeinsame Radtour haben\n\n## Ziel der Aktion\n\n- Region gemeinsam erkunden\n- Bewegung und Ausgleich zum Studienalltag\n- Kennenlernen und lockerer Austausch abseits des Campus\n\n## Teamgröße\n\n- Orga-Team: 2 bis 3 Personen\n\n## Vorbereitungsaufwand\n\n### Orga-Team \n\n- Route planen (Länge, Höhenmeter, Anfängerniveau prüfen) und mindestens einmal abfahren oder digital gründlich vorbereiten\n- Termin festlegen und mit dem Modul-Team abstimmen, Wetter-Puffer einplanen\n- Café-Stopp oder andere Zwischenstopps auswählen\n- Treffpunkt und Startzeit festlegen\n- Kommunikationskanal aufsetzen (Slack-Channel, Mailingliste, Kalender-Einladung)\n- Einladung im Modul und ggf. campusweit kommunizieren, mit Anmeldung\n- Hinweise an Teilnehmende vorbereiten (verkehrssicheres Rad, Helm, wetterfeste Kleidung, Wasserflasche, Bargeld für Café)\n- Ersatzplan bei schlechtem Wetter überlegen\n- Sicherheitshinweise für die Tour geben (Straßenverkehr, Gruppenverhalten, ggf. Pannenset)\n\n## Ort der Aktion\n\n- Start und Ziel: Campus Gummersbach oder zentraler Treffpunkt\n- Strecke: Bergisches Land\n\n## Dauer der Durchführung\n\n- Ca. 3 bis 5 Stunden (inkl. Pausen und Café-Stopp)\n\n## Benötigte Materialien & Ressourcen\n\n- Eigenes Fahrrad\n- Helm (empfohlen)\n- Wetterfeste Kleidung, Wasserflasche\n- Bargeld oder Karte für den Café-Stopp\n- Smartphone oder Kamera für die Dokumentation\n- Ggf. Pannenset oder Ersatzschlauch (idealerweise im Orga-Team dabei)\n\n## Mitwirkung\n\n- Orga-Team: bitte in die Kommentare eintragen und @anna.stein markieren\n- Teilnehmer:innen: bitte in die Kommentare eintragen\n\n## Punkte-Vergabe\n\n- Organisation: 10 Punkte\n- Teilnahme: 7 Punkte\n\n## Definition of Done\n\n### Orga-Team\n\n- Route ist geplant und auf Anfängerniveau abgestimmt\n- Termin, Treffpunkt und Startzeit sind festgelegt und mit dem Modul-Team abgestimmt\n- Café-Stopp oder andere Zwischenstopps sind ausgewählt\n- Kommunikationskanal ist aufgesetzt und im Studiengang bekannt gemacht\n- Hinweise zur Ausrüstung und Sicherheit sind an die Teilnehmenden kommuniziert\n- Radtour wurde durchgeführt\n- Aktion via Fotos und/oder Video dokumentiert: [Upload Link](https://th-koeln.sciebo.de/s/ctaKZ3NRRAEk6Za)\n\n### Teilnahme\n\n- An der Radtour teilgenommen\n- Kleines Video oder Fotos von den Eindrücken gedreht bzw. gemacht und hochgeladen: [Upload Link](https://th-koeln.sciebo.de/s/ctaKZ3NRRAEk6Za)\n- Dokumentation der Teilnahme erfolgt im Portfolio",
+    "catchup": false
+  },
+  {
+    "id": 37,
+    "title": "Bingo-Abend",
+    "url": "https://git-ce.rwth-aachen.de/micgn/community-game/community-game-core/-/work_items/37",
+    "points": [
+      3,
+      7
+    ],
+    "scopes": [
+      "Campus",
+      "Modul",
+      "Studiengang"
+    ],
+    "teams": [
+      "Miniteam",
+      "Single"
+    ],
+    "status": "Accepted",
+    "state": "opened",
+    "term": null,
+    "description": "Ein Orga-Team veranstaltet einen gemeinsamen Bingo-Abend am Campus Gummersbach. Mit klassischen Bingo-Karten, einer Moderation und mehreren Spielrunden entsteht ein geselliger Abend, an dem alle mitmachen können, unabhängig von Vorerfahrung. Für die Gewinner:innen der einzelnen R",
+    "details": "Ein Orga-Team veranstaltet einen gemeinsamen Bingo-Abend am Campus Gummersbach. Mit klassischen Bingo-Karten, einer Moderation und mehreren Spielrunden entsteht ein geselliger Abend, an dem alle mitmachen können, unabhängig von Vorerfahrung. Für die Gewinner:innen der einzelnen Runden gibt es kleine Preise. Ziel ist ein unterhaltsamer Abend, der Studierende in lockerer Atmosphäre zusammenbringt.\n\n## Zielgruppe\n\n- Studierende des Moduls „Communityprojekt\"\n- Interessierte Studierende aus dem Studiengang Medieninformatik\n\n## Ziel der Aktion\n\n- Unterhaltung und Gemeinschaft\n- Kennenlernen in ungezwungener Atmosphäre\n- Gemeinsamer Abend mit einfachem, niedrigschwelligem Format\n\n## Teamgröße\n\n- Orga-Team: 2 bis 3 Personen\n\n## Vorbereitungsaufwand\n\n### Orga-Team\n\n- Termin festlegen und mit dem Modul-Team abstimmen\n- Raum sichern (mit Tischen, Sitzplätzen und guter Sicht auf die Moderation)\n- Bingo-Material besorgen oder vorbereiten (Karten, Zahlen-Ziehsystem, Marker oder Chips)\n- Moderator:in aus dem Orga-Team bestimmen\n- Ablauf planen (Anzahl der Runden, Spielvarianten wie „eine Reihe\", „vier Ecken\", „volle Karte\")\n- Preise für die Gewinner:innen der Runden organisieren\n- Snacks und Getränke planen (optional)\n- Kommunikationskanal aufsetzen (Slack-Channel, Mailingliste, Kalender-Einladung)\n- Einladung im Modul kommunizieren, idealerweise mit Anmeldung\n\n## Ort der Aktion\n\n- Campus Gummersbach\n\n## Dauer der Durchführung\n\n- Ca. 2 Stunden\n\n## Benötigte Materialien & Ressourcen\n\n- Raum mit Tischen, Stühlen und guter Sicht\n- Bingo-Karten in ausreichender Anzahl\n- System zum Ziehen der Zahlen (Bingo-Trommel, App, ausgedruckte Kärtchen o. Ä.)\n- Marker, Stifte oder Chips zum Abstreichen bzw. Legen\n- Kleine Preise für die Gewinner:innen\n- Snacks und Getränke (optional)\n\n## Mitwirkung\n\n- Orga-Team: bitte in die Kommentare eintragen und @anna.stein markieren\n- Teilnehmer:innen: bitte in die Kommentare eintragen\n\n## Punkte-Vergabe\n\n- Organisation: 7 Punkte\n- Teilnahme: 3 Punkte\n- Gewinner:in einer Runde: zusätzlich 3 Punkte\n\n## Definition of Done\n\n### Orga-Team\n\n- Termin und Raum sind festgelegt und mit dem Modul-Team abgestimmt\n- Bingo-Material und Zahlen-Ziehsystem sind vorbereitet\n- Moderator:in ist bestimmt, Ablauf und Spielvarianten stehen\n- Preise für die Gewinner:innen sind organisiert\n- Kommunikationskanal ist aufgesetzt\n- Einladung ist im Modul kommuniziert\n- Abend wurde durchgeführt (Aufbau, Runden, Auswertung, Abbau)\n- Raum ist sauber hinterlassen\n- Aktion via Fotos und/oder Video dokumentiert: [Upload Link](https://th-koeln.sciebo.de/s/ctaKZ3NRRAEk6Za)\n\n### Teilnahme\n\n- Am Abend teilgenommen\n- An mehreren Bingo-Runden mitgespielt\n- Dokumentation der Teilnahme erfolgt im Portfolio\n\n### Gewinner:in einer Runde (zusätzlich 3 Punkte)\n\n- Eine Bingo-Runde gewonnen (Punkte werden pro Person und Abend maximal einmal vergeben, auch bei mehreren Siegen)",
+    "catchup": false
+  },
+  {
+    "id": 22,
+    "title": "Bob Ross Abend",
+    "url": "https://git-ce.rwth-aachen.de/micgn/community-game/community-game-core/-/work_items/22",
+    "points": [
+      3,
+      7
+    ],
+    "scopes": [
+      "Campus",
+      "Modul"
+    ],
+    "teams": [
+      "Miniteam"
+    ],
+    "status": "Accepted",
+    "state": "opened",
+    "term": null,
+    "description": "Das Team organisiert einen Bob-Ross-Malabend am Campus Gummersbach. Die Teilnehmenden malen gemeinsam ein einfaches Landschaftsmotiv im entspannten Stil von Bob Ross, Schritt für Schritt angeleitet. Begleitend gibt es ein kleines Quiz (etwa rund um Bob Ross, Maltechniken oder Fun",
+    "details": "Das Team organisiert einen Bob-Ross-Malabend am Campus Gummersbach. Die Teilnehmenden malen gemeinsam ein einfaches Landschaftsmotiv im entspannten Stil von Bob Ross, Schritt für Schritt angeleitet. Begleitend gibt es ein kleines Quiz (etwa rund um Bob Ross, Maltechniken oder Fun Facts), bei dem die besten Teilnehmenden mit Zusatzpunkten belohnt werden. Im Mittelpunkt stehen kreativer Ausgleich und eine lockere, gesellige Atmosphäre.\n\n## Zielgruppe\n\n- Studierende des Moduls „Communityprojekt\"\n- ggf. Studierende am Campus\n\n## Ziel der Aktion\n\n- Kreativer Ausgleich zum Studienalltag\n- Gemeinsam kreativ sein und eine lockere Atmosphäre schaffen\n\n## Teamgröße\n\n- Orga-Team: 2 bis 3 Personen\n\n## Vorbereitungsaufwand\n\n- Termin festlegen und mit dem Modul-Team abstimmen\n- Raum mit Tischen sichern, genug Platz zum Malen und abwischbare Oberflächen bzw. Tischschutz\n- Malmotiv auswählen und eine Schritt-für-Schritt-Anleitung vorbereiten (eigenes Tutorial oder Vorlage)\n- Rollen für den Abend festlegen: wer moderiert, wer leitet das Malen an\n- Material besorgen und Mengen anhand der Teilnehmerzahl kalkulieren\n- Quiz vorbereiten: Fragen, Ablauf und kleine Preise\n- Einladung im Modul kommunizieren, ggf. mit Anmeldung für die Materialplanung\n- Atmosphäre einplanen (entspannte Playlist, ggf. Bob-Ross-Videos im Hintergrund)\n\n## Ort der Aktion\n\n- Campus Gummersbach\n\n## Dauer der Durchführung\n\n- 2 bis 3 Stunden\n\n## Benötigte Materialien & Ressourcen\n\n- Papier und Leinwände\n- Acrylfarben (trocknen schnell und passen damit gut zum Zeitrahmen) und Wasserfarben\n- Pinsel in verschiedenen Größen\n- Wasserbecher\n- Tischschutz\n- Optional: Malkittel oder Hinweis auf alte Kleidung, da Acrylfarbe Flecken macht\n- Material und kleine Preise für das Quiz\n\n## Punkte-Vergabe\n\n- Organisation: 7 Punkte\n- Teilnahme: 3 Punkte\n- Quiz-Platzierung (zusätzlich zur Teilnahme): 1. Platz 3 Punkte, 2. Platz 2 Punkte, 3. Platz 1 Punkt\n\n## Definition of Done\n\n### Orga-Team (5 Punkte)\n\n- Termin und Raum sind festgelegt und mit dem Modul-Team abgestimmt\n- Malmotiv und Anleitung stehen\n- Material ist besorgt und in ausreichender Menge vorhanden\n- Quiz ist vorbereitet (Fragen und Preise)\n- Einladung ist im Modul kommuniziert\n- Abend wurde durchgeführt (Aufbau, Malen, Quiz, Abbau)\n- Raum ist sauber hinterlassen\n- Kurze Dokumentation ist auf dem Miro Board hinterlegt\n\n### Teilnahme (3 Punkte)\n\n- Am Malabend teilgenommen\n- Eigenes Bild gemalt\n\n### Quiz (Zusatzpunkte)\n\n- Platzierung unter den ersten drei im Quiz (Punkte gemäß Punkte-Vergabe)",
+    "catchup": false
+  },
+  {
+    "id": 57,
+    "title": "Bouldern gehen",
+    "url": "https://git-ce.rwth-aachen.de/micgn/community-game/community-game-core/-/work_items/57",
+    "points": [
+      3,
+      5
+    ],
+    "scopes": [
+      "Modul",
+      "Studiengang"
+    ],
+    "teams": [
+      "Miniteam",
+      "Single"
+    ],
+    "status": "Accepted",
+    "state": "opened",
+    "term": null,
+    "description": "Zusammen Bouldern gehen in Köln:) Ziel: zusammen Zeit verbringen",
+    "details": "Zusammen Bouldern gehen in Köln:)\n\n## Ziel:\n- zusammen Zeit verbringen\n\n## Definition of Done\n\n### Orga-Team (einmalig, 5 Punkte)\n\n- Terminplanung\n- Treffpunkt organisieren\n- Kommunikationskanal festlegen und hier dokumentieren.\n\n### Teilnahme (3 Punkte)\n\n- am Termin teilgenommen\n- kleines Video gedreht und hochgeladen: [Upload Link](https://th-koeln.sciebo.de/s/ctaKZ3NRRAEk6Za)",
+    "catchup": false
+  },
+  {
+    "id": 27,
+    "title": "Buch-Club",
+    "url": "https://git-ce.rwth-aachen.de/micgn/community-game/community-game-core/-/work_items/27",
+    "points": [
+      3,
+      5
+    ],
+    "scopes": [
+      "Modul",
+      "Studiengang"
+    ],
+    "teams": [
+      "Miniteam",
+      "Single"
+    ],
+    "status": "Accepted",
+    "state": "opened",
+    "term": null,
+    "description": "Regelmäßiges Treffen innerhalb des Moduls/Studiengangs um über Bücher zu quatschen :) Ziel des Workshops: Austausch über Bücher und damit verbundenes Interesse",
+    "details": "Regelmäßiges Treffen innerhalb des Moduls/Studiengangs um über Bücher zu quatschen :)\n\n## Ziel des Workshops:\n- Austausch über Bücher und damit verbundenes Interesse  \n\n## Teamgröße:\n- 2 bis 3 Personen\n\n## Vorbereitungsaufwand\n\n### Orga-Team (2–3 Personen, einmalig + laufend)\n\n- Konzept festlegen: Format, Rhythmus, Buchauswahl-Verfahren (z. B. gemeinsame Abstimmung, rotierender Vorschlag)\n- Erste Termine festlegen, idealerweise als Serie über das Semester\n- Raum für jeden Termin sichern (Bib, Modulraum, Online o. Ä.)\n- Kommunikationskanal aufsetzen (Slack-Channel, Mailingliste, Kalender-Einladung)\n- Einladungen und Erinnerungen rechtzeitig versenden, Buchauswahl pro Termin moderieren\n- Treffen leichtgewichtig dokumentieren (Foto, ein paar Stichworte zum besprochenen Buch)\n\n### Teilnehmer:innen (pro Treffen)\n\n- Vereinbartes Buch oder gewählter Auszug ist gelesen\n- Eigene Gedanken, Fragen oder Empfehlungen zum Buch mitgebracht\n\n## Mitwirkung \n- Orga-Team: bitte in die Kommentare eintragen und @anna.stein markieren\n- Teilnehmer:innen: bitte in die Kommentare eintragen\n\n## Definition of Done\n\n### Orga-Team (einmalig, 5 Punkte)\n\n- Konzept des Buch-Clubs ist dokumentiert (Format, Rhythmus, Buchauswahl-Verfahren)\n- Mindestens 3 Termine sind angesetzt und im Studiengang kommuniziert\n- Mindestens 3 Treffen haben tatsächlich stattgefunden (sonst gilt der Buch-Club nicht als „durchgeführt\")\n- Räume bzw. Online-Setups waren bei jedem Treffen verfügbar\n- Kommunikationskanal ist aufgesetzt und wird gepflegt\n- Kurzdokumentation der Treffen für sich erstellen (in Form eines Tagebuchs/PDF o.Ä.) \n\n### Teilnahme (pro Treffen, 3 Punkte)\n\n- Vereinbartes Buch bzw. Auszug wurde gelesen\n- An dem Treffen wurde teilgenommen\n- Aktiver Beitrag zum Austausch (eigene Gedanken, Fragen oder Perspektive eingebracht, nicht nur Anwesenheit)\n\n[cp-buchclub.pdf](/uploads/0ed7bc948507084a1b33d1c57c70066e/cp-buchclub.pdf)",
+    "catchup": false
+  },
+  {
+    "id": 58,
+    "title": "Campus Hide-and-Seek (auf Twitch)",
+    "url": "https://git-ce.rwth-aachen.de/micgn/community-game/community-game-core/-/work_items/58",
+    "points": [
+      3,
+      5
+    ],
+    "scopes": [
+      "Modul",
+      "Studiengang"
+    ],
+    "teams": [
+      "Miniteam",
+      "Single"
+    ],
+    "status": "Accepted",
+    "state": "opened",
+    "term": null,
+    "description": "Zusammen Campus Hide-and-Seek (auf Twitch) spielen :) Definition of Done Orga-Team (einmalig, 5 Punkte)",
+    "details": "Zusammen Campus Hide-and-Seek (auf Twitch) spielen :)\n\n## Definition of Done\n\n### Orga-Team (einmalig, 5 Punkte)\n\n- Terminplanung\n- Treffpunkt organisieren\n- Kommunikationskanal festlegen\n\n### Teilnahme (3 Punkte)\n\n- am Termin teilgenommen\n- kleines Video gedreht und hochgeladen: [Upload Link](https://th-koeln.sciebo.de/s/ctaKZ3NRRAEk6Za)",
+    "catchup": false
+  },
+  {
+    "id": 19,
+    "title": "Color Hunting",
+    "url": "https://git-ce.rwth-aachen.de/micgn/community-game/community-game-core/-/work_items/19",
+    "points": [
+      5,
+      7
+    ],
+    "scopes": [
+      "Campus",
+      "Modul"
+    ],
+    "teams": [
+      "Miniteam",
+      "Single"
+    ],
+    "status": "Accepted",
+    "state": "opened",
+    "term": null,
+    "description": "Das Team organisiert einen \"Color Hunting\"-Abend. Es werden verschiedene Farben per Zufall gezogen. Danach läuft jeder los und macht Fotos, die zu seiner Farbe passen (alles was man um sich herum findet). Am Ende wird eine Collage erstellt und man tauscht seine Ergebnisse miteina",
+    "details": "Das Team organisiert einen \"Color Hunting\"-Abend. Es werden verschiedene Farben per Zufall gezogen. Danach läuft jeder los und macht Fotos, die zu seiner Farbe passen (alles was man um sich herum findet). Am Ende wird eine Collage erstellt und man tauscht seine Ergebnisse miteinander aus.\n\n## Zielgruppe:\n- alle, die Interesse an Fotografie und Gestaltung haben\n\n## Ziel des Workshops:\n- Community zusammenbringen\n- geschärften Blick für Details schulen\n- individuelle Farbmomente in ein gemeinsames kreatives Gesamtkunstwerk zu verwandeln\n\n## Teamgröße:\n- 1 bis 2 Personen\n\n## Vorbereitungsaufwand\n\n### Orga-Team (1–2 Personen)\n\n- Termin festlegen und mit dem Modul-Team abstimmen\n- Raum für die Editier- und Austauschphase sichern (möglichst mit Bildschirm oder Beamer für die gemeinsame Sichtung)\n- Farb-Set definieren: welche Farben werden gezogen, wie viele insgesamt\n- Verfahren zur Farbverteilung vorbereiten (z. B. Farbkarten im Lostöpfchen, App, beschriftete Umschläge)\n- Einladung rechtzeitig im Studiengang kommunizieren\n- Foto-Sharing-Plattform aufsetzen (gemeinsamer Cloud-Ordner o. Ä.) und Link teilen\n- Ablaufplan für die zwei Stunden festlegen, Moderation am Abend übernehmen\n\n### Teilnehmer:innen\n\n- Smartphone oder Kamera mitbringen\n- Laptop für die Collage-Phase mitbringen (falls vorhanden)\n- Bearbeitungssoftware vorinstallieren oder Online-Tool griffbereit (Adobe, Canva, Photopea o. Ä.)\n\n## Mitwirkung \n- Orga Team: als Assignee zuweisen\n- Teilnehmer:innen: bitte Kommentar schreiben\n\n\n## Punkte-Vergabe\n\n- Organisation: 7 Punkte\n- Teilnahme: 5 Punkte\n\n## Definition of Done\n\n### Orga-Team (7 Punkte)\n\n- Termin ist festgelegt und mit dem Modul-Team abgestimmt\n- Raum für die Editier- und Austauschphase ist gesichert\n- Farb-Set und Verteilungsverfahren stehen\n- Einladung ist rechtzeitig im Studiengang kommuniziert\n- Foto-Sharing-Plattform ist aufgesetzt und allen Teilnehmenden bekannt\n- Abend wurde durchgeführt (1h Foto-Session, 1h Collage und Austausch)\n- Kurze Dokumentation (Foto vom Setup, ggf. ausgewählte Collagen mit Zustimmung der Urheber:innen) ist auf dem Miro Board hinterlegt\n\n## Teilnahme (5 Punkte)\n\n- Am Event teilgenommen\n- Eigene Farbe gezogen und mehrere passende Fotos während der Foto-Session aufgenommen\n- Eigene Collage erstellt und auf der Sharing-Plattform abgelegt\n- Aktiver Beitrag zum Austausch in der zweiten Stunde (eigene Bilder vorgestellt, Rückmeldung zu Bildern anderer gegeben)\n\n[cp-color-hunting.pdf](/uploads/bbeb49b54701b9a71a4ef54f308bb422/cp-color-hunting.pdf)",
+    "catchup": false
+  },
+  {
+    "id": 60,
+    "title": "Community-Landkarte: Von Gummersbach bis Köln",
+    "url": "https://git-ce.rwth-aachen.de/micgn/community-game/community-game-core/-/work_items/60",
+    "points": [
+      20
+    ],
+    "scopes": [
+      "Fachcommunity",
+      "Stadt"
+    ],
+    "teams": [
+      "Single"
+    ],
+    "status": "Accepted",
+    "state": "opened",
+    "term": null,
+    "description": "Zwischen Gummersbach und Köln gibt es mehr Tech- und Kreativszene, als man vom Campus aus sieht. Wer neu ist, findet sie aber nur schwer. Diese Aktion macht sichtbar, wo auf der Strecke von Gummersbach bis Köln Community stattfindet: Meetups, Tech-Talks, Coworking Spaces, Hackspa",
+    "details": "Zwischen Gummersbach und Köln gibt es mehr Tech- und Kreativszene, als man vom Campus aus sieht. Wer neu ist, findet sie aber nur schwer. Diese Aktion macht sichtbar, wo auf der Strecke von Gummersbach bis Köln Community stattfindet: Meetups, Tech-Talks, Coworking Spaces, Hackspaces, Makerspaces und Vereine. Dabei entsteht keine Wegwerf-Karte, sondern eine eigene kleine Webanwendung mit eigenem Kartenstil. Sie läuft auf GitHub Pages und kann von künftigen Jahrgängen weitergepflegt werden.\n\n## Wirkungskreis\n\n- Stadt, Fachcommunity\n\n## Zielgruppe\n\n- Alle Teilnehmenden des Community-Projekt-Moduls\n\n## Ziel der Aktion\n\n- Orte und Formate der Tech- und Kreativszene zwischen Gummersbach und Köln sichtbar machen\n- Studierenden einen leichten Einstieg in die lokale Community ermöglichen\n- Eine Karte bauen, die über das Semester hinaus lebt und gepflegt werden kann\n- Erste Erfahrungen mit Webkarten, Geodaten und GitHub Pages sammeln\n\n## Teamgröße\n\n- 1 Person\n- Diese Aktion kann nur einmal vergeben werden\n\n## Aufgaben\n\n### Recherche\n\n- Mindestens 15 Orte und Formate recherchieren, davon mindestens 5 in Gummersbach und dem Oberbergischen\n- Pro Eintrag erfassen: Name, Kategorie, Adresse und Koordinaten, Anreise vom Campus Gummersbach (z. B. mit der RB 25), Rhythmus, Kosten, Link, eine kurze Einschätzung, wie leicht der Einstieg für Studierende ist, und das Datum, an dem Sie die Angaben geprüft haben\n- Mindestens zwei Einträge persönlich besuchen oder mit den Organisator:innen sprechen und dabei Fotos machen, davon mindestens einer in Gummersbach oder im Oberbergischen\n\n### Umsetzung\n\n- Ein eigenes GitHub-Repository anlegen\n- Alle Orte in einer einzigen, gut strukturierten Datei pflegen, z. B. `data/orte.geojson`. So können später auch Leute ohne Programmierkenntnisse neue Orte ergänzen\n- Die Karte mit MapLibre GL JS umsetzen. Kartenkacheln z. B. von OpenFreeMap, kostenlos und ohne API-Key\n- Einen eigenen Kartenstil mit Maputnik gestalten\n- Alle Orte zusätzlich als HTML-Liste ausgeben. Die Liste ist die Basis, die Karte kommt obendrauf\n- Die Seite über GitHub Pages veröffentlichen\n\n### Optional: GitHub Action\n\n- Freiwillig: Eine GitHub Action einrichten, die bei jeder Änderung die Daten prüft (sind alle Pflichtfelder da, sind die Koordinaten gültig?) oder tote Links meldet\n\n## Einstiegspunkte\n\n- MapLibre GL JS: https://maplibre.org/maplibre-gl-js/docs/\n- OpenFreeMap: https://openfreemap.org/\n- Maputnik: https://maplibre.org/maputnik/\n- GitHub Pages: https://docs.github.com/de/pages\n- GitHub Actions: https://docs.github.com/de/actions\n- Koordinaten ermitteln: https://www.openstreetmap.org/\n\n## Definition of Done\n\n### Inhalt\n\n- Die Karte enthält mindestens 15 Einträge mit allen Pflichtangaben, Stand Oktober 2026, davon mindestens 5 in Gummersbach und dem Oberbergischen\n- Alle Angaben sind verlinkt\n- Mindestens zwei Einträge enthalten eigene Fotos und Ihre persönliche Einschätzung aus Besuch oder Gespräch\n- Die Seite enthält Ihre Top 3 für Erstsemester, jeweils mit kurzer Begründung\n\n### Technik\n\n- Die Seite ist über GitHub Pages online erreichbar\n- Die Karte hat einen eigenen Kartenstil\n- Die Einträge lassen sich nach Kategorie filtern\n- Ein Klick auf einen Ort zeigt seine Infos (Popup oder Detailansicht)\n- Die Liste enthält alle Orte, ist semantisches HTML, per Tastatur bedienbar und funktioniert auch, wenn die Karte nicht lädt\n- Die Seite funktioniert auf dem Smartphone\n- Es werden keine API-Keys und keine kostenpflichtigen Dienste verwendet\n- Das README erklärt, wie man einen neuen Ort ergänzt und wie die Seite veröffentlicht wird\n- Zum Abschluss ist das Repository an den GitHub-Account `cnoss` übertragen (Settings, Transfer ownership), damit die Karte auch künftig gepflegt werden kann\n\n### Abschluss\n\n- Bitte keine KI-generierten Texte. Uns interessiert Ihr Blick, nicht der eines Sprachmodells\n- Ein Video von maximal 2 Minuten: kurze Demo der Karte und was Sie dabei gelernt haben\n- Links zur Seite, zum Repository und zum Video sind im Issue hinterlegt\n\n## Punktevergabe\n\n- 20 Punkte\n\n## Mitwirkung\n\n- Bitte tragen Sie sich mit Namen in den Kommentaren ein. Wer sich zuerst einträgt, bekommt die Aktion.",
+    "catchup": true
+  },
+  {
+    "id": 61,
+    "title": "Community-Module an anderen Hochschulen",
+    "url": "https://git-ce.rwth-aachen.de/micgn/community-game/community-game-core/-/work_items/61",
+    "points": [
+      8
+    ],
+    "scopes": [
+      "Fachcommunity"
+    ],
+    "teams": [
+      "Single"
+    ],
+    "status": "Accepted",
+    "state": "opened",
+    "term": null,
+    "description": "Das Community-Projekt ist ein ungewöhnliches Modul. Ganz allein sind wir damit aber nicht: An anderen Hochschulen gibt es Service Learning, Engagement-Module, Peer-Mentoring oder Formate im Studium Generale. Diese Aktion schaut sich an, wie andere das machen, und bringt Ideen für",
+    "details": "Das Community-Projekt ist ein ungewöhnliches Modul. Ganz allein sind wir damit aber nicht: An anderen Hochschulen gibt es Service Learning, Engagement-Module, Peer-Mentoring oder Formate im Studium Generale. Diese Aktion schaut sich an, wie andere das machen, und bringt Ideen für die Weiterentwicklung des Moduls mit.\n\n## Wirkungskreis\n\n- Fachcommunity / Hochschule\n\n## Zielgruppe\n\n- Alle Teilnehmenden des Community-Projekt-Moduls\n\n## Ziel der Aktion\n\n- Vergleichbare Formate an anderen Hochschulen kennenlernen\n- Konkrete Ideen für die Weiterentwicklung des Community-Projekts sammeln\n- Kontakt zu Lehrenden an anderen Hochschulen aufnehmen\n\n## Teamgröße\n\n- 1 Person\n- Diese Aktion kann nur einmal vergeben werden\n\n## Aufgaben\n\n- Fünf vergleichbare Formate recherchieren, davon mindestens zwei aus Deutschland\n- Pro Format einen Steckbrief erstellen: Hochschule, Studiengang, Name des Formats, ECTS, Prüfungsform, Mechanik, was ist besonders, was könnten wir übernehmen\n- Mit mindestens einer verantwortlichen Person sprechen (Mail, Call oder Videokonferenz)\n- Die Formate in einer visuellen Übersicht vergleichen\n\n## Definition of Done\n\n- Fünf Steckbriefe liegen vor, alle Angaben sind mit Quellen verlinkt\n- Eine visuelle Vergleichsübersicht liegt vor (Matrix, Poster oder Kartenset)\n- Das Gespräch ist dokumentiert: mit wem, wann und die drei bis fünf wichtigsten Aussagen\n- Drei konkrete Ideen für das Community-Projekt sind formuliert, jeweils mit Bezug auf eines der Formate\n- Bitte keine KI-generierten Texte. Uns interessiert Ihr Blick, nicht der eines Sprachmodells\n- Abschluss: eine Sprachnachricht oder ein Video von maximal 2 Minuten, in dem Sie das Ergebnis vorstellen\n- Alle Ergebnisse sind im Issue verlinkt\n\n## Punktevergabe\n\n- 8 Punkte\n\n## Mitwirkung\n\n- Bitte tragen Sie sich mit Namen in den Kommentaren ein. Wer sich zuerst einträgt, bekommt die Aktion.",
+    "catchup": true
+  },
+  {
+    "id": 35,
+    "title": "Coworking Spaces Köln: Videodokumentation",
+    "url": "https://git-ce.rwth-aachen.de/micgn/community-game/community-game-core/-/work_items/35",
+    "points": [
+      7
+    ],
+    "scopes": [
+      "Fachcommunity"
+    ],
+    "teams": [
+      "Miniteam",
+      "Single"
+    ],
+    "status": "Accepted",
+    "state": "opened",
+    "term": null,
+    "description": "Viele Studierende kennen Coworking Spaces nur vom Hörensagen. Diese Aktion bringt Sie rein. Pro besuchtem Space entsteht ein kurzes Video für Instagram und YouTube: ein informativer Einblick in den Raum, die Atmosphäre und das Angebot. Die Videos helfen anderen Studierenden bei d",
+    "details": "Viele Studierende kennen Coworking Spaces nur vom Hörensagen. Diese Aktion bringt Sie rein. Pro besuchtem Space entsteht ein kurzes Video für Instagram und YouTube: ein informativer Einblick in den Raum, die Atmosphäre und das Angebot. Die Videos helfen anderen Studierenden bei der Orientierung und zeigen den Spaces gleichzeitig Wertschätzung. Eine direkte Investition in die Vernetzung mit der Kölner Community.\n\n## Zielgruppe\n\n- Alle Teilnehmenden des Community-Projekt-Moduls\n\n## Ziel der Aktion\n\n- Coworking Spaces in Köln und Umgebung sichtbar machen\n- Studierenden eine Orientierungshilfe für Arbeitsorte außerhalb der Hochschule geben\n- Vernetzung mit der lokalen Community stärken\n\n## Teamgröße\n\n- Kleingruppe (1 bis 3 Personen)\n- Diese Aktion kann mehrfach durchgeführt werden, pro Coworking Space einmal\n\n## Aufgaben\n\n- Coworking Space in Köln oder Umgebung recherchieren und Besuch anfragen\n- Space besuchen, filmen und Material sammeln\n- Video schneiden und auf Instagram und YouTube veröffentlichen\n\n## Definition of Done\n\n- Sie haben einen Coworking Space in Köln oder Umgebung besucht\n- Der Space hat dem Dreh und der Veröffentlichung zugestimmt\n- Ein Video von maximal 3 Minuten liegt vor (Hochkant, für Instagram und YouTube Shorts geeignet)\n- Das Video zeigt den Space, seine Atmosphäre und sein Angebot\n- Das Video ist auf Instagram und YouTube veröffentlicht, die Links sind im Issue hinterlegt\n- Musik und andere Medien im Video sind rechtlich geklärt\n\n## Punktevergabe\n\n- 7 Punkte pro dokumentiertem Coworking Space\n\n## Mitwirkung\n\n- Bitte tragen Sie sich mit Namen und dem besuchten Space in den Kommentaren ein.",
+    "catchup": true
+  },
+  {
+    "id": 38,
+    "title": "Creative Club",
+    "url": "https://git-ce.rwth-aachen.de/micgn/community-game/community-game-core/-/work_items/38",
+    "points": [
+      5,
+      10
+    ],
+    "scopes": [
+      "Modul",
+      "Studiengang"
+    ],
+    "teams": [
+      "Miniteam",
+      "Single"
+    ],
+    "status": "Accepted",
+    "state": "opened",
+    "term": null,
+    "description": "Ein gemeinsamer Nachmittag oder Abend am Campus Gummersbach, an dem alle Teilnehmenden ihrem eigenen kreativen oder handwerklichen Hobby nachgehen. Das kann Malen, Häkeln, Stricken, Basteln, Origami, Zeichnen, Sticken oder etwas ganz anderes sein. Jede:r bringt das eigene Projekt",
+    "details": "Ein gemeinsamer Nachmittag oder Abend am Campus Gummersbach, an dem alle Teilnehmenden ihrem eigenen kreativen oder handwerklichen Hobby nachgehen. Das kann Malen, Häkeln, Stricken, Basteln, Origami, Zeichnen, Sticken oder etwas ganz anderes sein. Jede:r bringt das eigene Projekt mit oder startet vor Ort ein neues. Das Zusammensein und die entspannte, produktive Atmosphäre stehen im Vordergrund: gemeinsam schaffen, ohne dass alle dasselbe machen müssen.\n\n## Zielgruppe\n\n- Studierende des Moduls „Communityprojekt\"\n- Alle Mitglieder des Campus Gummersbach, die einem kreativen oder handwerklichen Hobby nachgehen (oder es ausprobieren) möchten\n\n## Ziel der Aktion\n\n- Lebensqualität und Ausgleich zum Studienalltag\n- Kreativität abseits der Uni pflegen\n- Kennenlernen über gemeinsame Hobbys und Handwerk\n- Inspiration und Austausch über verschiedene Techniken\n\n## Teamgröße\n\n- Orga-Team: 2 Personen\n\n## Vorbereitungsaufwand\n\n### Orga-Team\n\n- Termin festlegen und mit dem Modul-Team abstimmen\n- Raum mit Tischen und guter Beleuchtung sichern (abwischbare Oberflächen oder Tischschutz einplanen)\n- Basismaterial für Spontanteilnehmende besorgen (Papier, Stifte, kleine Bastelmaterialien), damit auch ohne eigenes Projekt mitgemacht werden kann\n- Kommunikationskanal aufsetzen (Slack-Channel, Mailingliste, Kalender-Einladung)\n- Einladung im Modul kommunizieren mit dem Hinweis, dass eigenes Material mitgebracht werden darf und soll\n- Ggf. entspannte Playlist für die Atmosphäre vorbereiten\n- Getränke und kleine Snacks planen (optional)\n\n### Teilnehmer:innen\n\n- Eigenes Hobby-Material mitbringen oder vorab überlegen, was vor Ort gestartet werden soll\n- Ggf. Rücksprache mit dem Orga-Team, falls bestimmtes Werkzeug oder Platz nötig ist\n\n## Ort der Aktion\n\n- Campus Gummersbach\n\n## Dauer der Durchführung\n\n- Ca. 2 bis 3 Stunden\n\n## Benötigte Materialien & Ressourcen\n\n- Raum mit Tischen und Stühlen\n- Tischschutz oder abwischbare Unterlagen\n- Basismaterial (Papier, Stifte, kleine Bastelutensilien)\n- Eigenes Hobby-Material der Teilnehmenden\n- Getränke, optional kleine Snacks\n\n## Mitwirkung\n\n- Orga-Team: bitte in die Kommentare eintragen und @anna.stein markieren\n- Teilnehmer:innen: bitte in die Kommentare eintragen\n\n## Punkte-Vergabe\n\n- Organisation: 10 Punkte\n- Teilnahme: 5 Punkte\n\n## Definition of Done\n\n### Orga-Team\n\n- Termin und Raum sind festgelegt und mit dem Modul-Team abgestimmt\n- Basismaterial für Spontanteilnehmende ist besorgt\n- Kommunikationskanal ist aufgesetzt\n- Einladung ist im Modul kommuniziert (mit Hinweis, eigenes Material mitzubringen)\n- Nachmittag/Abend wurde durchgeführt (Aufbau, Session, Abbau)\n- Raum ist sauber hinterlassen\n- Aktion via Fotos und/oder Video dokumentiert: [Upload Link](https://th-koeln.sciebo.de/s/ctaKZ3NRRAEk6Za)\n\n### Teilnahme\n\n- Am Termin teilgenommen\n- Aktiv an einem eigenen Projekt gearbeitet oder etwas Neues erschaffen\n- Kurzer Austausch mit anderen Teilnehmenden (eigene Arbeit gezeigt oder Interesse an den Projekten anderer)\n- Dokumentation der Teilnahme erfolgt im Portfolio",
+    "catchup": false
+  },
+  {
+    "id": 5,
+    "title": "Eigener (Aktions)vorschlag/ Beitrag wurde angenommen/ einbezogen",
+    "url": "https://git-ce.rwth-aachen.de/micgn/community-game/community-game-core/-/work_items/5",
+    "points": [
+      3
+    ],
+    "scopes": [
+      "Modul"
+    ],
+    "teams": [
+      "Miniteam",
+      "Single"
+    ],
+    "status": "Accepted",
+    "state": "opened",
+    "term": null,
+    "description": "Definition of Done Vorschlag landet in *Accepted* und kann genutzt werden",
+    "details": "## Definition of Done\n- Vorschlag landet in *Accepted* und kann genutzt werden",
+    "catchup": false
+  },
+  {
+    "id": 41,
+    "title": "Erdbeeren/ Obst pflücken",
+    "url": "https://git-ce.rwth-aachen.de/micgn/community-game/community-game-core/-/work_items/41",
+    "points": [
+      5,
+      10
+    ],
+    "scopes": [
+      "Modul",
+      "Studiengang"
+    ],
+    "teams": [
+      "Miniteam",
+      "Single"
+    ],
+    "status": "Accepted",
+    "state": "opened",
+    "term": null,
+    "description": "Ein gemeinsamer Ausflug in die Natur rund um Gummersbach: In der Gruppe wird zu einer geeigneten Streuobstwiese, einem Selbstpflückfeld oder einem Bauernhof gefahren, wo saisonales Obst gepflückt werden kann. Neben dem gemeinsamen Naturerlebnis stehen Austausch und geselliges Bei",
+    "details": "Ein gemeinsamer Ausflug in die Natur rund um Gummersbach: In der Gruppe wird zu einer geeigneten Streuobstwiese, einem Selbstpflückfeld oder einem Bauernhof gefahren, wo saisonales Obst gepflückt werden kann. Neben dem gemeinsamen Naturerlebnis stehen Austausch und geselliges Beisammensein im Vordergrund. Am Ende bringt jede:r ein kleines Erntekörbchen und schöne Eindrücke mit nach Hause.\n\n## Zielgruppe\n\n- Studierende des Moduls „Communityprojekt\"\n- Alle Mitglieder des Campus Gummersbach, die Lust auf einen Ausflug haben\n\n## Ziel der Aktion\n\n- Zusammen die Natur genießen\n- Bewegung und Ausgleich zum Studienalltag\n- Kennenlernen und gemeinsames Erleben abseits des Campus\n\n## Teamgröße\n\n- Orga-Team: 2 bis 3 Personen\n\n## Vorbereitungsaufwand\n\n### Orga-Team (einmalig)\n\n- Passende Location recherchieren (Streuobstwiese, Selbstpflückfeld, Bauernhof) und Verfügbarkeit prüfen (Saison, Öffnungszeiten, Kosten pro Kilo)\n- Termin festlegen und mit dem Modul-Team abstimmen (Wetter-Puffer einplanen)\n- Anreise organisieren: Treffpunkt am Campus, Fahrgemeinschaften, ÖPNV-Optionen oder gemeinsame Anfahrt\n- Kommunikationskanal aufsetzen (Slack-Channel, Mailingliste, Kalender-Einladung)\n- Einladung im Modul und ggf. campusweit kommunizieren, mit Anmeldung für die Fahrgemeinschafts-Planung\n- Hinweise an Teilnehmende vorbereiten (wetterfeste Kleidung, festes Schuhwerk, eigene Körbe/Tüten, Bargeld für die Ernte)\n- Ersatzplan bei schlechtem Wetter überlegen\n\n## Ort der Aktion\n\n- Streuobstwiese oder Selbstpflückfeld in der Umgebung von Gummersbach\n\n## Dauer der Durchführung\n\n- Ca. 3 bis 4 Stunden (inkl. An- und Abreise)\n\n## Benötigte Materialien & Ressourcen\n\n- Anfahrtsmöglichkeit (Auto, Fahrgemeinschaften oder ÖPNV)\n- Eigene Körbe, Tüten oder Eimer für die Ernte\n- Wetterfeste Kleidung und festes Schuhwerk\n- Bargeld für die Ernte (je nach Location)\n- Smartphone oder Kamera für die Dokumentation\n\n## Mitwirkung\n\n- Orga-Team: bitte in die Kommentare eintragen und @anna.stein markieren\n- Teilnehmer:innen: bitte in die Kommentare eintragen\n\n## Punkte-Vergabe\n\n- Organisation: 10 Punkte\n- Teilnahme: 5 Punkte\n\n## Definition of Done\n\n### Orga-Team\n\n- Passende Location ist recherchiert, Saison und Verfügbarkeit sind geprüft\n- Termin und Treffpunkt sind festgelegt und mit dem Modul-Team abgestimmt\n- Anreise ist organisiert (Fahrgemeinschaften, ÖPNV o. Ä.)\n- Kommunikationskanal ist aufgesetzt und im Studiengang bekannt gemacht\n- Hinweise zur Kleidung, Ausrüstung und Bargeld sind an die Teilnehmenden kommuniziert\n- Ausflug wurde durchgeführt\n- Aktion via Fotos und/oder Video dokumentiert: [Upload Link](https://th-koeln.sciebo.de/s/ctaKZ3NRRAEk6Za)\n\n### Teilnahme\n\n- Am Termin teilgenommen\n- Aktiv beim Pflücken mitgemacht\n- Kleines Video oder Fotos vom Ausflug gedreht bzw. gemacht und hochgeladen: [Upload Link](https://th-koeln.sciebo.de/s/ctaKZ3NRRAEk6Za)\n- Dokumentation der Teilnahme erfolgt im Portfolio",
+    "catchup": false
+  },
+  {
+    "id": 66,
+    "title": "Erklärvideo: So funktioniert das Community-Projekt",
+    "url": "https://git-ce.rwth-aachen.de/micgn/community-game/community-game-core/-/work_items/66",
+    "points": [
+      10
+    ],
+    "scopes": [
+      "Modul"
+    ],
+    "teams": [
+      "Single"
+    ],
+    "status": "Accepted",
+    "state": "opened",
+    "term": null,
+    "description": "Zu Beginn des Semesters ist für viele unklar, wie das Community-Projekt funktioniert: Punkte, Aktionen, Wirkungskreise, Aktionsbasar, Portfolio. Wer das Modul einmal durchlaufen hat, kann es am besten erklären. Das Video wird beim nächsten Kick-Off und auf der Projektwebsite eing",
+    "details": "Zu Beginn des Semesters ist für viele unklar, wie das Community-Projekt funktioniert: Punkte, Aktionen, Wirkungskreise, Aktionsbasar, Portfolio. Wer das Modul einmal durchlaufen hat, kann es am besten erklären. Das Video wird beim nächsten Kick-Off und auf der Projektwebsite eingesetzt.\n\n## Wirkungskreis\n\n- Modul\n\n## Zielgruppe\n\n- Alle Teilnehmenden des Community-Projekt-Moduls\n\n## Ziel der Aktion\n\n- Das Modul für die nächste Kohorte verständlich erklären\n- Eigene Erfahrungen an Nachfolgende weitergeben\n- Ein Erklärformat konzipieren und produzieren\n\n## Teamgröße\n\n- 1 Person\n- Diese Aktion kann nur einmal vergeben werden\n\n## Aufgaben\n\n- Konzept und Storyboard erstellen\n- Diese Inhalte abdecken: Spielprinzip und 100 Punkte, Aktionen und GitLab Issues, Wirkungskreise, Aktionsbasar, Portfolio\n- Eigene Erfahrungen als roten Faden nutzen\n- Video produzieren (Realfilm, Animation, Screencast oder eine Mischung)\n\n## Definition of Done\n\n- Das Storyboard liegt vor\n- Das Video ist 2 bis 3 Minuten lang und deckt alle fünf Inhalte ab\n- Das Video enthält mindestens einen O-Ton von Teilnehmenden\n- Das Video ist untertitelt\n- Alle gezeigten Personen haben zugestimmt, Musik und andere Medien sind rechtlich geklärt\n- Das Video liegt als Datei vor, der Link ist im Issue hinterlegt\n- Kurzes Statement im Issue: Was war die größte Herausforderung beim Erklären?\n\n## Punktevergabe\n\n- 10 Punkte\n\n## Mitwirkung\n\n- Bitte tragen Sie sich mit Namen in den Kommentaren ein. Wer sich zuerst einträgt, bekommt die Aktion.",
+    "catchup": true
+  },
+  {
+    "id": 26,
+    "title": "Erstsemesterbegrüßung",
+    "url": "https://git-ce.rwth-aachen.de/micgn/community-game/community-game-core/-/work_items/26",
+    "points": [
+      20
+    ],
+    "scopes": [
+      "Modul"
+    ],
+    "teams": [
+      "Miniteam",
+      "Team"
+    ],
+    "status": "Accepted",
+    "state": "closed",
+    "term": null,
+    "description": "Ein Team aus 5–10 Personen gestaltet die Erstsemesterbegrüßung in Kooperation mit dem Hochschulteam für das WiSe 26/27 inhaltlich neu und führt sie am 25.09.2026 am Campus Gummersbach durch. Mögliche neue Elemente sind ein Cake-Pop-Contest, ein interaktives Kennenlernspiel, ein C",
+    "details": "Ein Team aus 5–10 Personen gestaltet die Erstsemesterbegrüßung in Kooperation mit dem Hochschulteam für das WiSe 26/27 inhaltlich neu und führt sie am 25.09.2026 am Campus Gummersbach durch. Mögliche neue Elemente sind ein Cake-Pop-Contest, ein interaktives Kennenlernspiel, ein Campus-Rundgang oder ein kleiner Showcase aus dem Studiengang. Ziel ist, den Erstsemestern einen warmen und persönlichen Einstieg zu ermöglichen.\n\n## Vorbereitungsaufwand\n\n### Konzeptphase\n\n- Bestehende Erstsemesterbegrüßung verstehen: Was funktioniert, was nicht\n- Neues Konzept entwickeln: Programmpunkte, Formate, Atmosphäre\n- Abstimmung mit Modul-Team und Studiengangsleitung\n- Konkrete Programmelemente ausarbeiten (z. B. Cake-Pop-Contest: Material, Ablauf, Jury, Preise)\n\n### Organisationsphase\n\n- Räume bzw. Locations am Campus reservieren\n- Material besorgen (Cake-Pops zum Dekorieren, Deko, Namensschilder, ggf. Snacks und Getränke)\n- Kommunikation an die zukünftigen Erstis vorbereiten (Begrüßungsmail, Programmübersicht)\n- Aufgabenverteilung im Orga-Team und Briefing der Helfer:innen\n- Ablauf- und Zeitplan finalisieren\n\n### Tag selbst\n\n- Aufbau\n- Durchführung mit Begleitung aller Programmpunkte und Moderation\n- Cake-Pop-Contest moderieren, Jury-Entscheidung und Preisvergabe\n- Foto-Dokumentation\n- Abbau und Reinigung\n\n## Termin & Ort der Aktion\n\n- Tag der Erstsemesterbegrüßung: 25.09.2026\n- Campus Gummersbach\n\n## Dauer der Durchführung\n\n- Veranstaltung selbst: ca. 4–6 Stunden am 25.09.2026\n- Vor- und Nachbereitung verteilt über mehrere Wochen davor\n\n## Punkte-Vergabe\n\n- Organisation: 20–30 Punkte\n\nEmpfehlung zur Eingrenzung: 20 Punkte bei punktueller Weiterentwicklung des bestehenden Formats, 30 Punkte bei substanzieller Neugestaltung mit neuen Programmpunkten wie dem Cake-Pop-Contest.\n\n## Definition of Done\n\n- Neues Konzept ist dokumentiert und mit Modul-Team und Studiengangsleitung abgestimmt\n- Programmablauf für den 25.09.2026 steht, Räume sind vorbereitet\n- Material und Verpflegung sind besorgt\n- Cake-Pop-Contest (oder gewähltes Alternativformat) ist vorbereitet: Bewertungskriterien, Jury und Preise stehen\n- Kommunikation an die Erstis ist erfolgt (Begrüßungsmail, Programmübersicht o. Ä.)\n- Orga-Team ist gebrieft, Aufgaben sind verteilt\n- Veranstaltung wurde am 25.09.2026 durchgeführt\n- Kurzes Feedback der Erstis ist eingeholt (Stimmungsbild, kurze Umfrage o. Ä.)\n- Räume sind aufgeräumt und sauber zurückgegeben\n- Kurze Dokumentation der Veranstaltung ist auf dem Miro Board hinterlegt",
+    "catchup": false
+  },
+  {
+    "id": 6,
+    "title": "Externe Location für Veranstaltung organisiert",
+    "url": "https://git-ce.rwth-aachen.de/micgn/community-game/community-game-core/-/work_items/6",
+    "points": [
+      5
+    ],
+    "scopes": [
+      "Modul"
+    ],
+    "teams": [
+      "Miniteam",
+      "Single"
+    ],
+    "status": "Accepted",
+    "state": "opened",
+    "term": null,
+    "description": "Für eine Veranstaltung wird eine passende Räumlichkeit außerhalb der Hochschule gesucht, ausgewählt und verbindlich gebucht. Die Aktion endet, sobald die Location für den vereinbarten Termin gesichert ist und alle organisatorischen Rahmenbedingungen festgehalten sind. Definition ",
+    "details": "Für eine Veranstaltung wird eine passende Räumlichkeit außerhalb der Hochschule gesucht, ausgewählt und verbindlich gebucht. Die Aktion endet, sobald die Location für den vereinbarten Termin gesichert ist und alle organisatorischen Rahmenbedingungen festgehalten sind.\n\n## Definition of Done\n\n- Location ist ausgewählt und passt zu Teilnehmerzahl, Art der Veranstaltung und Termin ist mit dem Anbieter verbindlich vereinbart\n- Schriftliche Bestätigung liegt vor\n- Ausstattung (Bestuhlung, Technik, ggf. Verpflegungsmöglichkeit) ist abgestimmt\n- Zugang am Veranstaltungstag ist geregelt: Schlüssel bzw. Einlass und Ansprechperson vor Ort sind benannt\n\n## Mitwirkung\n- bitte als Assignee zuweisen\n- bitte in den Kommentaren erläutern, wo die Veranstaltung stattfinden könnte. Im Kommentar über einen @anna.stein die hinzufügen, damit sie informiert wird",
+    "catchup": false
+  },
+  {
+    "id": 59,
+    "title": "Female Digital Camp 2026",
+    "url": "https://git-ce.rwth-aachen.de/micgn/community-game/community-game-core/-/work_items/59",
+    "points": [
+      20
+    ],
+    "scopes": [
+      "Studiengang"
+    ],
+    "teams": [
+      "Single"
+    ],
+    "status": "Proposal",
+    "state": "opened",
+    "term": "2026-09-18",
+    "description": "Das Bermuda Digital Studio bietet dieses Jahr zum 5. Mal das Female Digital Camp in Bochum an. Ziel des Camps ist es innerhalb von 3 Wochen á 5 Tagen einen intensiven Einblick in den Bereich der digitalen Produktentwicklung bei E.ON zu gewinnen. Das Angebot richtet sich an alle S",
+    "details": "Das Bermuda Digital Studio bietet dieses Jahr zum 5. Mal das Female Digital Camp in Bochum an. \nZiel des Camps ist es innerhalb von 3 Wochen á 5 Tagen einen intensiven Einblick in den Bereich der digitalen Produktentwicklung bei E.ON zu gewinnen.\n\nDas Angebot richtet sich an alle Studentinnen zwischen 18 und 35 Jahren. Ihr könnt euch hier bewerben: https://digitalcamp.bdstudio.de/\n\n## BEWERBUNGSFRIST: 26. JULI 2026\n\nGemäß der Webseite könnt ihr sogar Geld- oder Sachpreise gewinnen und es gibt eine Teilnahmevergütung von 570€.\n\nDiese Aktion ist ausschließlich für Frauen gedacht. Achtet darauf, dass die Teilnehmerinnen-Anzahl auf ca. 20 Personen beschränkt ist (laut Webseite)",
+    "catchup": false
+  },
+  {
+    "id": 47,
+    "title": "Focus-Sprints: Die Pomodoro-Lernsession",
+    "url": "https://git-ce.rwth-aachen.de/micgn/community-game/community-game-core/-/work_items/47",
+    "points": [
+      3,
+      5
+    ],
+    "scopes": [
+      "Modul",
+      "Studiengang"
+    ],
+    "teams": [
+      "Miniteam",
+      "Single"
+    ],
+    "status": "Accepted",
+    "state": "opened",
+    "term": null,
+    "description": "Gemeinsames Treffen zum lernen und fokussieren. Strukturierter Co-Workung-Nachmittag mit festen Intervallen: 45 Min Konzentration, 15 Min Austausch. Ziel der Aktion: Motivation",
+    "details": "Gemeinsames Treffen zum lernen und fokussieren. Strukturierter Co-Workung-Nachmittag mit festen Intervallen: 45 Min Konzentration, 15 Min Austausch.\n\n## Ziel der Aktion:\n- Motivation \n- Steigerung der Lernproduktivität\n- gegenseitige Hilfe\n\n## Teamgröße:\n- 1 bis 2 Personen\n\n## Vorbereitungsaufwand\n\n### Orga-Team (1–2 Personen, einmalig + laufend)\n\n- Konzept festlegen: Intervalle festlegen, Ort und Zeit Planen\n- Erste Termine festlegen, idealerweise als Serie über das Semester\n- Raum für jeden Termin sichern (Bib, Modulraum, Online o. Ä.)\n- Kommunikationskanal aufsetzen (Slack-Channel, Mailingliste, Kalender-Einladung)\n- Einladungen und Erinnerungen rechtzeitig versenden\n- Treffen leichtgewichtig dokumentieren\n\n### Teilnehmer:innen (pro Treffen)\n\n- Haben an den Treffen teilgenommen und Lernziel pro Session erreicht\n\n## Mitwirkung \n- Orga-Team: bitte in die Kommentare eintragen und @anna.stein markieren\n- Teilnehmer:innen: bitte in die Kommentare eintragen\n\n## Definition of Done\n\n### Orga-Team (einmalig, 5 Punkte)\n\n- Konzept ist dokumentiert: Intervalle (45 Min Konzentration, 15 Min Austausch), Ort, Zeit\n- Mindestens 3 Termine sind angesetzt und kommuniziert\n- Mindestens 3 Treffen haben tatsächlich stattgefunden\n- Räume bzw. Online-Setups waren bei jedem Treffen verfügbar\n- Kommunikationskanal ist aufgesetzt und wird gepflegt\n- Einladungen und Erinnerungen wurden rechtzeitig versendet\n- Bilder oder ein kurze Videos der Sessions sind über den [Upload-Link](https://th-koeln.sciebo.de/s/ctaKZ3NRRAEk6Za) hochgeladen\n\n### Teilnahme (pro Treffen, 3 Punkte)\n\n- An dem Treffen wurde teilgenommen (mindestens zwei komplette Intervalle: 45 Min Konzentration + 15 Min Austausch)\n- Eigenes Lernziel für die Session wurde vorab festgelegt\n- Lernziel wurde bearbeitet und der Fortschritt im Austauschintervall geteilt\n- Dokumentation der Teilnahme erfolgt im Portfolio",
+    "catchup": false
+  },
+  {
+    "id": 17,
+    "title": "Fußballturnier organisiert und durchgeführt",
+    "url": "https://git-ce.rwth-aachen.de/micgn/community-game/community-game-core/-/work_items/17",
+    "points": [
+      3,
+      10
+    ],
+    "scopes": [
+      "Campus"
+    ],
+    "teams": [
+      "Miniteam",
+      "Single"
+    ],
+    "status": "",
+    "state": "opened",
+    "term": null,
+    "description": "Beschreibung: Das Team organisiert ein Fußballturnier und führt dieses auch durch. Das Fußballturnier findet zwischen der verschiedenen Studiengängen der TH-Köln statt. Zielgruppe:",
+    "details": "**Beschreibung:**\n\nDas Team organisiert ein Fußballturnier und führt dieses auch durch. Das Fußballturnier findet zwischen der verschiedenen Studiengängen der TH-Köln statt.\n\n**Zielgruppe:**\n- alle die Interesse an Fußball haben\n\n**Ziel des Workshops:**\n- Kennenlernen \n- Kontakte knüpfen\n\n**Teamgröße:**\n- 4-7 Personen (organisation)\n\n**Vorbereitungsaufwand:**\n- Spielfeld/ -Halle organisieren\n- Termin vereinbaren\n- Bälle, Pokale organisieren\n- Verkauf vorbereiten\n\n**Ort der Aktion:**\n- noch offen\n\n**Dauer der Durchführung:**\n- 60 Minuten\n\n**Benötigte Materialien & Ressourcen:**\n- Spielfeld/ -Halle\n- Bälle, Pokale\n\n**Punktevergabe:**\n- für die Organisation: 10 Punkte\n- für die Teilnahme: 3 Punkte\n\n**Definition of Done**\n- Turnier vorbereitet und organisiert\n- Turnier durchgeführt\n\n[cp-fußballturnier.pdf](/uploads/71c008e930ab74c2c3eb927cb8eea907/cp-fußballturnier.pdf)",
+    "catchup": false
+  },
+  {
+    "id": 48,
+    "title": "Gamescom-Besuch",
+    "url": "https://git-ce.rwth-aachen.de/micgn/community-game/community-game-core/-/work_items/48",
+    "points": [
+      5,
+      7
+    ],
+    "scopes": [
+      "Modul",
+      "Studiengang"
+    ],
+    "teams": [
+      "Miniteam",
+      "Single"
+    ],
+    "status": "Accepted",
+    "state": "opened",
+    "term": null,
+    "description": "Gemeinsamer Besuch der Gamescom am 26.08.2026 (Mittwoch). Mehr Infos und Tickets über die Gamescom: https://www.gamescom.global/de Ziel der Aktion:",
+    "details": "Gemeinsamer Besuch der Gamescom am 26.08.2026 (Mittwoch). Mehr Infos und Tickets über die Gamescom:\nhttps://www.gamescom.global/de\n\n## Ziel der Aktion:\n- gemeinsamer Austausch \n\n## Teamgröße:\n- 2 Personen\n\n## Vorbereitungsaufwand\n\n### Orga-Team (2 Personen, einmalig)\n\n- Kommunikationskanal aufsetzen (Slack-Channel, Mailingliste, Kalender-Einladung) und hier kommunizieren\n- Ein paar Bilder und ein kurzes Video vom Event. [Upload Link](https://th-koeln.sciebo.de/s/ctaKZ3NRRAEk6Za)\n- Gemeinsamen Treffpunkt ausmachen\n\n## Mitwirkung \n- Orga-Team: bitte in die Kommentare eintragen und @anna.stein markieren\n- Teilnehmer:innen: bitte in die Kommentare eintragen\n\n## Definition of Done\n\n### Orga-Team (einmalig, 5 Punkte)\n\n- Kommunikationskanal ist aufgesetzt und hier bekannt gemacht\n- Gemeinsamer Treffpunkt (Ort und Uhrzeit) ist mit den Teilnehmenden abgestimmt und kommuniziert\n- Treffen am Treffpunkt am 26.08.2026 hat stattgefunden\n- Bilder und ein kurzes Video vom Event sind über den [Upload-Link](https://th-koeln.sciebo.de/s/ctaKZ3NRRAEk6Za) hochgeladen\n\n### Teilnahme (7 Punkte)\n\n- Eigenes gültiges Gamescom-Ticket ist besorgt\n- Teilnahme am gemeinsamen Treffpunkt am 26.08.2026\n- Gemeinsame Zeit auf der Gamescom mit der Gruppe verbracht (Austausch, gemeinsame Programmpunkte)\n- Dokumentation der Teilnahme erfolgt im Portfolio",
+    "catchup": false
+  },
+  {
+    "id": 50,
+    "title": "Gemeinsam Federball spielen",
+    "url": "https://git-ce.rwth-aachen.de/micgn/community-game/community-game-core/-/work_items/50",
+    "points": [
+      2,
+      5
+    ],
+    "scopes": [
+      "Campus",
+      "Modul",
+      "Studiengang"
+    ],
+    "teams": [
+      "Miniteam",
+      "Single",
+      "Team"
+    ],
+    "status": "Accepted",
+    "state": "opened",
+    "term": null,
+    "description": "Gemeinsam Treffen zum Federball spielen. Ziel der Aktion: Spaß durch Sport",
+    "details": "Gemeinsam Treffen zum Federball spielen. \n\n## Ziel der Aktion:\n- Spaß durch Sport\n\n## Teamgröße:\n- 2 bis 3 Personen\n\n## Vorbereitungsaufwand\n\n### Orga-Team (2–3 Personen) -> 5 Punkte\n\n- Termin festlegen\n- Ort abklären\n- Kommunikationskanal aufsetzen (Slack-Channel, Mailingliste, Kalender-Einladung)\n- Einladungen und Erinnerungen rechtzeitig versenden\n- Treffen leichtgewichtig dokumentieren\n\n### Teilnehmer:innen (pro Treffen) -> 2 Punkte\n\n## Mitwirkung \n- Orga-Team: bitte in die Kommentare eintragen und @anna.stein markieren\n- Teilnehmer:innen: bitte in die Kommentare eintragen\n- Aktion wurde mit ein paar Bilder und Videos dokumentiert: [Upload Link](https://th-koeln.sciebo.de/s/ctaKZ3NRRAEk6Za)",
+    "catchup": false
+  },
+  {
+    "id": 23,
+    "title": "Grillen mit Sport",
+    "url": "https://git-ce.rwth-aachen.de/micgn/community-game/community-game-core/-/work_items/23",
+    "points": [
+      3,
+      5
+    ],
+    "scopes": [
+      "Campus"
+    ],
+    "teams": [
+      "Miniteam",
+      "Single"
+    ],
+    "status": "",
+    "state": "opened",
+    "term": null,
+    "description": "Beschreibung: Das Team organisiert Grillabend in Kombination mit sportlichen Aktivitäten, wie Tischtennis, Badminton, Fußball oder Basketball. Zielgruppe:",
+    "details": "**Beschreibung:**\n\nDas Team organisiert Grillabend in Kombination mit sportlichen Aktivitäten, wie Tischtennis, Badminton, Fußball oder Basketball.\n\n**Zielgruppe:**\n\n- alle, die Bock haben\n\n**Ziel des Workshops:**\n\n- Connection\n- Sport\n\n**Teamgröße:**\n\n- 2 bis 3 Personen\n\n**Vorbereitungsaufwand:**\n\n- Essen \n- Getränke\n- Grill\n- Bälle etc.\n\n**Ort der Aktion:**\n\n- Draußen\n\n**Dauer der Durchführung:**\n\n- Ein Abend\n\n**Punkte Vergabe:**\n\n- Organisation: 5 Punkte\n- Teilnahme: 3 Punkte\n\n**Definition of Done**\n\n- Abend organisiert\n\n[cp-grillen-sport.pdf](/uploads/696e5b7fa652da8c0d36ea9d3aa85d17/cp-grillen-sport.pdf)",
+    "catchup": false
+  },
+  {
+    "id": 65,
+    "title": "Gründer:innen-Porträt",
+    "url": "https://git-ce.rwth-aachen.de/micgn/community-game/community-game-core/-/work_items/65",
+    "points": [
+      8
+    ],
+    "scopes": [
+      "Hochschule",
+      "Stadt"
+    ],
+    "teams": [
+      "Single"
+    ],
+    "status": "Accepted",
+    "state": "opened",
+    "term": null,
+    "description": "Beim Startup-Tag der TH Köln im Juni haben wir echte Gründungsgeschichten gehört und Prototypen aus dem KickStart-Programm gesehen. Diese Aktion geht einen Schritt weiter: Sie besuchen ein Gründungsteam vor Ort und erzählen seine Geschichte. Am liebsten eines aus Gummersbach und ",
+    "details": "Beim Startup-Tag der TH Köln im Juni haben wir echte Gründungsgeschichten gehört und Prototypen aus dem KickStart-Programm gesehen. Diese Aktion geht einen Schritt weiter: Sie besuchen ein Gründungsteam vor Ort und erzählen seine Geschichte. Am liebsten eines aus Gummersbach und dem Oberbergischen oder eines, das am Campus Gummersbach entstanden ist.\n\n## Wirkungskreis\n\n- Stadt, Hochschule\n\n## Zielgruppe\n\n- Alle Teilnehmenden des Community-Projekt-Moduls\n\n## Ziel der Aktion\n\n- Gründungsgeschichten aus dem direkten Umfeld sichtbar machen\n- Kontakt zur Gründungsszene in Gummersbach und an der TH Köln aufbauen\n- Studierenden zeigen, dass Gründen eine echte Option ist\n\n## Teamgröße\n\n- 1 Person\n- Diese Aktion kann mehrfach durchgeführt werden, pro Gründungsteam einmal\n\n## Aufgaben\n\n- Ein Gründungsteam aus Gummersbach und Umgebung, aus dem Umfeld des Campus Gummersbach oder aus dem KickStart-Programm der TH Köln auswählen und anfragen\n- Das Team vor Ort besuchen und interviewen. Leitfragen: Was ist die Idee? Wie kam es vom Studium zur Gründung? Welche Rolle hat das Netzwerk gespielt? Was ist schiefgegangen? Welchen Tipp haben Sie für Studierende?\n- Fotos vor Ort machen\n- Porträt als Instagram-Carousel oder Webartikel aufbereiten\n\n## Definition of Done\n\n- Der Besuch vor Ort hat stattgefunden\n- Das Porträt liegt vor: als Carousel mit 6 bis 10 Slides oder als Webartikel mit Fotos\n- Das Porträt enthält eigene Fotos und Zitate aus dem Gespräch\n- Das Team hat Text und Fotos schriftlich zur Veröffentlichung freigegeben\n- Bitte keine KI-generierten Texte. Uns interessiert Ihr Blick, nicht der eines Sprachmodells\n- Abschluss: eine Sprachnachricht oder ein Video von maximal 2 Minuten: Was haben Sie mitgenommen?\n- Alle Ergebnisse sind im Issue verlinkt\n\n## Punktevergabe\n\n- 8 Punkte pro porträtiertem Team\n\n## Mitwirkung\n\n- Bitte tragen Sie sich mit Namen und dem angefragten Team in den Kommentaren ein, damit niemand doppelt anfragt.",
+    "catchup": true
+  },
+  {
+    "id": 67,
+    "title": "Interaktive Aktionsübersicht",
+    "url": "https://git-ce.rwth-aachen.de/micgn/community-game/community-game-core/-/work_items/67",
+    "points": [
+      12
+    ],
+    "scopes": [
+      "Modul"
+    ],
+    "teams": [
+      "Single"
+    ],
+    "status": "Accepted",
+    "state": "opened",
+    "term": null,
+    "description": "Alle Aktionen liegen als Issues im GitLab. Für einen schnellen Überblick ist das aber nicht ideal: Welche Aktionen gibt es im Wirkungskreis Campus? Was kann ich alleine machen? Was bringt 10 Punkte oder mehr? Diese Aktion baut eine Webseite, die genau das beantwortet. Wirkungskre",
+    "details": "Alle Aktionen liegen als Issues im GitLab. Für einen schnellen Überblick ist das aber nicht ideal: Welche Aktionen gibt es im Wirkungskreis Campus? Was kann ich alleine machen? Was bringt 10 Punkte oder mehr? Diese Aktion baut eine Webseite, die genau das beantwortet.\n\n## Wirkungskreis\n\n- Modul\n\n## Zielgruppe\n\n- Alle Teilnehmenden des Community-Projekt-Moduls\n\n## Ziel der Aktion\n\n- Den Aktionspool übersichtlich und filterbar machen\n- Den Einstieg ins Modul für künftige Teilnehmende erleichtern\n- Eine kleine, wartbare Webanwendung entwickeln\n\n## Teamgröße\n\n- 1 Person\n- Diese Aktion kann nur einmal vergeben werden\n\n## Aufgaben\n\n- Daten aus GitLab beziehen (API oder Export): Titel, Punkte, Wirkungskreis, Teamgröße, Status, Termin. Punkte, Wirkungskreis, Teamgröße und Status sind als Labels gepflegt, z. B. `Punkte: 10` oder `Wirkungskreis: Campus`. Eine Aktion kann mehrere Punkte-Labels haben (z. B. für Orga-Team und Teilnehmende). Für den Zugriff über die API brauchen Sie einen eigenen Personal Access Token mit Scope `read_api`. Der Token gehört nicht ins Repository\n- Eine Webseite mit Filtern umsetzen\n- Ein Script schreiben, das die Daten ohne Handarbeit aktualisiert\n- Die Seite veröffentlichen, z. B. über GitLab Pages oder GitHub Pages\n\n## Definition of Done\n\n- Die Seite ist online erreichbar\n- Aktionen lassen sich nach Wirkungskreis, Punkten, Teamgröße und Status filtern\n- Jede Aktion verlinkt auf ihr Issue\n- Die Daten lassen sich per Script aktualisieren\n- Die Umsetzung ist einfach und standardkonform: semantisches HTML, responsive, per Tastatur bedienbar\n- Das Repository enthält ein README mit Anleitung zu Aufbau, Aktualisierung und Deployment\n- Abschluss: ein Demo-Video von maximal 2 Minuten\n- Links zu Seite, Repository und Demo sind im Issue hinterlegt\n\n## Punktevergabe\n\n- 12 Punkte\n\n## Mitwirkung\n\n- Bitte tragen Sie sich mit Namen in den Kommentaren ein. Wer sich zuerst einträgt, bekommt die Aktion.",
+    "catchup": true
+  },
+  {
+    "id": 30,
+    "title": "Kernteam Studieninfo Tag",
+    "url": "https://git-ce.rwth-aachen.de/micgn/community-game/community-game-core/-/work_items/30",
+    "points": [
+      10
+    ],
+    "scopes": [
+      "Campus",
+      "Fachcommunity"
+    ],
+    "teams": [
+      "Miniteam"
+    ],
+    "status": "Accepted",
+    "state": "closed",
+    "term": null,
+    "description": "Ein Kernteam aus 3 Personen unterstützt den Studieninfotag am Campus Gummersbach. Die Zielgruppe ist eine kleine Gruppe Studieninteressierter, der Vorstellungsslot ist kurz (etwa 30 bis 60 Minuten). Das Team nimmt die Aktion in die Hand: Es kümmert sich darum, dass die gezeigten ",
+    "details": "Ein Kernteam aus 3 Personen unterstützt den Studieninfotag am Campus Gummersbach. Die Zielgruppe ist eine kleine Gruppe Studieninteressierter, der Vorstellungsslot ist kurz (etwa 30 bis 60 Minuten). Das Team nimmt die Aktion in die Hand: Es kümmert sich darum, dass die gezeigten Sachen vorhanden sind und ordentlich aussehen, sammelt Fotomaterial und erstellt einen Social-Media-Beitrag. Leitgedanke ist, den Auftritt so zu gestalten, wie man sich das selbst als Schüler:in gewünscht hätte.\n\n## Zielgruppe\n\n- Studieninteressierte Schüler:innen (kleine Gruppe)\n\n## Ziel der Aktion\n\n- Medieninformatik für Studieninteressierte greifbar und sympathisch präsentieren\n- Konkrete Ergebnisse aus dem Modul Social Computing zeigen\n- Sichtbarkeit für den Studiengang schaffen, auch über Social Media\n- Aus eigener Erfahrung heraus zeigen, was man sich damals als Schüler:in gewünscht hätte\n\n## Teamgröße\n\n- Kernteam: 3 Personen\n\n## Vorbereitungsaufwand\n\n- Abstimmung mit Modul-Team und der Organisation des Studieninfotags (Slot, Raum, Technik)\n- Auswahl der Social-Computing-Ergebnisse, die präsentiert werden\n- Präsentationsformat festlegen (kurze Demo, interaktive Station, Poster, Live-Vorführung)\n- Material aufbereiten: Demos lauffähig machen, Poster oder Roll-up gestalten, Handout erstellen\n- Auftritt mindestens einmal proben, damit der kurze Slot sitzt\n- Social-Media-Beitrag planen und Fotomaterial-Konzept festlegen\n- Mitnehm-Material für Schüler:innen vorbereiten (QR-Code, Linkliste, kleine Infokarte)\n\n## Termin & Ort der Aktion\n\n- Studieninfotag am Campus Gummersbach (Termin einsetzen)\n\n## Dauer der Durchführung\n\n- Präsentationsslot: 30 bis 60 Minuten\n- Vor- und Nachbereitung verteilt über mehrere Wochen davor\n\n## Benötigte Materialien & Ressourcen\n\n- Laptop und Präsentationstechnik\n- Lauffähige Demos oder Projekte aus Social Computing\n- Poster oder Roll-up, Handouts\n- Kamera oder Smartphone für Fotomaterial\n- ggf. Give-aways oder QR-Code-Karte zum Mitnehmen\n\n## Mögliche Folgeaktionen\n\n- Wiederkehrende Beteiligung am Studieninfotag als feste Tradition\n- Schnupper-Workshop für Schüler:innen\n- Aufbau einer wiederverwendbaren Materialsammlung für künftige Infotage\n\n\n## Definition of Done\n\n- Abstimmung mit Modul-Team und Studieninfotag-Organisation ist erfolgt, Slot, Raum und Technik sind bestätigt\n- Auswahl der präsentierten Social-Computing-Ergebnisse steht\n- Präsentationsmaterial ist fertig und getestet (Demos laufen, Poster und Handout liegen vor)\n- Auftritt ist mindestens einmal geprobt\n- Präsentation wurde am Studieninfotag durchgeführt\n- Fotomaterial wurde gesammelt\n- Material für Social-Media-Beitrag (z. B. Insta-Post) ist erstellt\n- Mitnehm-Material für Schüler:innen ist bereitgestellt (QR-Code, Linkliste o. Ä.)\n- Kurze Dokumentation ist auf dem Miro Board hinterlegt",
+    "catchup": false
+  },
+  {
+    "id": 21,
+    "title": "Kino Abend",
+    "url": "https://git-ce.rwth-aachen.de/micgn/community-game/community-game-core/-/work_items/21",
+    "points": [
+      3,
+      5
+    ],
+    "scopes": [
+      "Campus"
+    ],
+    "teams": [
+      "Miniteam",
+      "Single"
+    ],
+    "status": "Accepted",
+    "state": "opened",
+    "term": null,
+    "description": "Beschreibung: Das Team organisiert einen Kino Abend am Campus. Anschließend wird ein Quiz durchgeführt über den Film, welches vom Team erstellt wird. Zielgruppe:",
+    "details": "**Beschreibung:**\n\nDas Team organisiert einen Kino Abend am Campus. Anschließend wird ein Quiz durchgeführt über den Film, welches vom Team erstellt wird.\n\n**Zielgruppe:**\n\n- Campus Gummersbach\n\n**Ziel des Workshops:**\n\n- Spaß\n\n**Teamgröße:**\n\n- 3 bis 4 Personen\n\n**Vorbereitungsaufwand:**\n\n- Hörsaal\n- Quiz organisieren\n- Film-Auswahl treffen\n\n**Ort der Aktion:**\n\n- Campus Hörsaal\n\n**Dauer der Durchführung:**\n\n- max. 3 Stunden\n\n**Benötigte Materialien & Ressourcen**\n\n- Hörsaal\n- Laptop\n- Netflix/Prime/Disney+ etc.\n\n**Punkte Vergabe:**\n\n- Organisation: 5 Punkte\n- Teilnahme: 3 Punkte\n- Quiz-Gewinner:\n  * 1\\. Platz: 3 Punkte\n  * 2\\. Platz: 2 Punkte\n  * 3\\. Platz: 1 Punkt\n\n**Definition of Done**\n\n- Kino-Abend organisiert\n- teilgenommen\n\n[cp-kinoabend.pdf](/uploads/9f05ed9e691f6d96f1488244c456503a/cp-kinoabend.pdf)",
+    "catchup": false
+  },
+  {
+    "id": 3,
+    "title": "Kuchen mitbringen",
+    "url": "https://git-ce.rwth-aachen.de/micgn/community-game/community-game-core/-/work_items/3",
+    "points": [
+      3
+    ],
+    "scopes": [
+      "Modul"
+    ],
+    "teams": [
+      "Miniteam",
+      "Single"
+    ],
+    "status": "Accepted",
+    "state": "opened",
+    "term": null,
+    "description": "Stimmen Sie sich bitte in den Kommentaren ab, wer, wann, was mitbringen möchte und sich als Assignee hinzufügen.",
+    "details": "Stimmen Sie sich bitte in den Kommentaren ab, wer, wann, was mitbringen möchte und sich als Assignee hinzufügen.",
+    "catchup": false
+  },
+  {
+    "id": 25,
+    "title": "Kultur(nachmit)tag",
+    "url": "https://git-ce.rwth-aachen.de/micgn/community-game/community-game-core/-/work_items/25",
+    "points": [
+      7,
+      10
+    ],
+    "scopes": [
+      "Modul",
+      "Studiengang"
+    ],
+    "teams": [
+      "Miniteam",
+      "Single"
+    ],
+    "status": "",
+    "state": "closed",
+    "term": null,
+    "description": "Die Teilnehmer:innen finden sich in Kleingruppen (Kochgruppen) zusammen, bringen traditionelles Essen mit und bauen damit ihren kleinen eigenen Stand. Zielgruppe: alle Medieninformatikstudent:innen",
+    "details": "Die Teilnehmer:innen finden sich in Kleingruppen (Kochgruppen) zusammen, bringen traditionelles Essen mit und bauen damit ihren kleinen eigenen Stand.\n\n## Zielgruppe:\n\n- alle Medieninformatikstudent:innen\n\n## Ziel der Aktion\n\n- Kennenlernen\n\n## Teamgröße\n\n- jede Kochgruppen: 3 bis 4 Personen\n- Orgateam: max 5 Personen\n\n## Vorbereitungsaufwand Kochgruppen:\n- Essen vorbereiten\n\n## Vorbereitungsaufwand Orgateam:\n- Termin klar machen\n- Absprachen mit dem Modul-Team\n- Nachmittag vorbereiten und koordinieren\n- Nachmittag dokumentieren\n- Auf- und Abbau\n\n## Ort der Aktion:\n\n- Campus Gummersbach\n\n## Dauer der Durchführung:\n\n- 2 Stunden\n\n## Punktevergabe\n\n- Organisation: 10 Punkte\n- Kochgruppen: 7 Punkte\n\n## Mitwirkung\n- Orga-Team: bitte als Assignee zuweisen\n- Kochgruppen: bitte in den Kommentaren eintragen. \n\n## Definition of Done\n\n### Für jede Kochgruppe (7 Punkte)\n\n- Gruppe (3–4 Personen) hat sich gebildet, Verantwortlichkeiten sind verteilt\nGericht ist ausgewählt und mit dem Orgateam abgestimmt (keine Dopplungen mit anderen Gruppen)\n- Zutaten, Geschirr und sonstiges Material sind eingekauft bzw. mitgebracht\n- Essen ist zubereitet und zur Veranstaltung mitgebracht\n- Eigener Stand ist aufgebaut: Tisch, Beschriftung mit Gericht und Herkunftsland, ggf. kleine Dekoration\n- Kurze Info zum Gericht ist am Stand sichtbar (Land, Anlass, Geschichte)\n- Stand wurde während der 2 Stunden durchgehend besetzt\n- Stand ist nach der Aktion abgebaut, der eigene Bereich ist gereinigt\n\n### Für das Orgateam (10 Punkte)\n\n- Termin ist festgelegt und mit dem Modul-Team abgestimmt\n- Geeigneter Ort am Campus Gummersbach ist gesichert (inkl. Tische, Strom, ggf. Wasserzugang)\n- Aufruf zur Bildung von Kochgruppen ist rechtzeitig im Studiengang kommuniziert\n- Übersicht aller Kochgruppen und ihrer Gerichte liegt vor, Dopplungen sind ausgeschlossen\n- Logistik ist organisiert: Auf- und Abbauplan, Reinigung, Müllentsorgung\n- Aufbau ist vor Beginn der Veranstaltung abgeschlossen\n- Veranstaltung wurde während der 2 Stunden begleitet (Begrüßung, ggf. kurze Vorstellungsrunde der Gerichte, Moderation bei Bedarf)\n- Abbau ist erledigt, Fläche ist sauber zurückgegeben\n-Dokumentation liegt vor: Fotos, kurzer Bericht und Liste der teilnehmenden Gruppen, hinterlegt auf Community-Projekt Miro\n\n[cp-kulturtag1.pdf](/uploads/63d107f2c8ae1ae504b3c781de7e54f7/cp-kulturtag1.pdf)\n\n[cp-kulturtag2.pdf](/uploads/f466a084d1f95ad6e4d136ec0ba04f36/cp-kulturtag2.pdf)",
+    "catchup": false
+  },
+  {
+    "id": 54,
+    "title": "Lesecafé",
+    "url": "https://git-ce.rwth-aachen.de/micgn/community-game/community-game-core/-/work_items/54",
+    "points": [
+      3,
+      5
+    ],
+    "scopes": [
+      "Modul",
+      "Studiengang"
+    ],
+    "teams": [
+      "Miniteam",
+      "Single"
+    ],
+    "status": "Accepted",
+    "state": "opened",
+    "term": null,
+    "description": "Gemeinsames lesen von verschiedenen Büchern Ziel der Aktion: Unterhaltung und Gemeinschaft",
+    "details": "Gemeinsames lesen von verschiedenen Büchern\n\n## Ziel der Aktion:\n- Unterhaltung und Gemeinschaft\n\n## Teamgröße:\n- 1 bis 2 Personen\n\n## Definition of Done\n\n### Orga-Team (einmalig, 5 Punkte)\n\n- Terminplanung\n- Raum organisieren\n- benötigtes Material besorgen \n- evtll. Snacks\n\n### Teilnahme (3 Punkte)\n\n## Mitwirkung \n- Orga-Team: bitte in die Kommentare eintragen und @anna.stein markieren\n- Teilnehmer:innen: bitte in die Kommentare eintragen",
+    "catchup": false
+  },
+  {
+    "id": 42,
+    "title": "Mario Party - Abende",
+    "url": "https://git-ce.rwth-aachen.de/micgn/community-game/community-game-core/-/work_items/42",
+    "points": [
+      3,
+      5,
+      10
+    ],
+    "scopes": [
+      "Campus",
+      "Modul",
+      "Studiengang"
+    ],
+    "teams": [
+      "Miniteam",
+      "Single"
+    ],
+    "status": "Accepted",
+    "state": "opened",
+    "term": null,
+    "description": "Ein Orga-Team veranstaltet einen gemeinsamen Mario-Party-Abend am Campus Gummersbach. Bei Spielen, Snacks und Getränken wird in wechselnden Konstellationen um den Sieg gespielt. Ziel ist ein entspannter, geselliger Abend mit gesundem Wettbewerb, an dem sich Studierende in lockere",
+    "details": "Ein Orga-Team veranstaltet einen gemeinsamen Mario-Party-Abend am Campus Gummersbach. Bei Spielen, Snacks und Getränken wird in wechselnden Konstellationen um den Sieg gespielt. Ziel ist ein entspannter, geselliger Abend mit gesundem Wettbewerb, an dem sich Studierende in lockerer Runde besser kennenlernen können.\n\n## Zielgruppe\n\n- Studierende und Mitarbeiter:innen am Campus Gummersbach\n\n## Ziel der Aktion\n\n- Geselliges Zusammenkommen und Kennenlernen\n- Gemeinsamer Abend mit Spielen und lockerem Austausch\n\n## Teamgröße\n\n- Orga-Team: 2 bis 3 Personen\n\n## Vorbereitungsaufwand\n\n### Orga-Team\n\n- Termin festlegen und mit dem Modul-Team abstimmen\n- Raum sichern (mit Beamer, Bildschirm oder TV, ausreichend Sitzplätzen und Steckdosen)\n- Spielekonsole(n), Controller und Mario-Party-Spiel organisieren\n- Turniermodus festlegen (Runden, Bracket, Bewertung des Gewinners)\n- Snacks und Getränke planen\n- Kommunikationskanal aufsetzen (Slack-Channel, Mailingliste, Kalender-Einladung)\n- Einladung im Modul kommunizieren, idealerweise mit Anmeldung\n- Ablauf am Abend moderieren (Begrüßung, Turnier, Auswertung)\n\n## Ort der Aktion\n\n- Campus Gummersbach\n\n## Dauer der Durchführung\n\n- Ca. 3 bis 4 Stunden\n\n## Benötigte Materialien & Ressourcen\n\n- Raum mit Beamer, Bildschirm oder TV\n- Spielekonsole und ausreichend Controller\n- Mario-Party (Spiel)\n- Snacks und Getränke\n- Kleiner Preis für den Gewinner oder die Gewinnerin (optional)\n\n## Mitwirkung\n\n- Orga-Team: bitte in die Kommentare eintragen und @anna.stein markieren\n- Teilnehmer:innen: bitte in die Kommentare eintragen\n\n## Punkte-Vergabe\n\n- Organisation: 10 Punkte\n- Teilnahme: 5 Punkte\n- Gewinner:in des Abends: zusätzlich 3 Punkte\n\n## Definition of Done\n\n### Orga-Team\n\n- Termin und Raum sind festgelegt und mit dem Modul-Team abgestimmt\n- Konsole, Controller und Spiel sind organisiert\n- Turniermodus steht (Runden, Auswertung)\n- Snacks und Getränke sind besorgt\n- Kommunikationskanal ist aufgesetzt\n- Einladung ist im Modul kommuniziert\n- Abend wurde durchgeführt (Aufbau, Turnier, Auswertung, Abbau)\n- Raum ist sauber hinterlassen\n- Aktion via Fotos und/oder Video dokumentiert: [Upload Link](https://th-koeln.sciebo.de/s/ctaKZ3NRRAEk6Za)\n\n### Teilnahme\n\n- Am Abend teilgenommen\n- An mehreren Runden Mario Party mitgespielt\n- Dokumentation der Teilnahme erfolgt im Portfolio\n\n### Gewinner:in des Abends (zusätzlich 3 Punkte)\n\n- Die meisten Runden im Turniermodus gewonnen",
+    "catchup": false
+  },
+  {
+    "id": 8,
+    "title": "Medieninformatik Showcase organisiert und durchgeführt",
+    "url": "https://git-ce.rwth-aachen.de/micgn/community-game/community-game-core/-/work_items/8",
+    "points": [
+      20
+    ],
+    "scopes": [
+      "Campus",
+      "Fachcommunity",
+      "Hochschule",
+      "Studiengang"
+    ],
+    "teams": [
+      "Team"
+    ],
+    "status": "Accepted",
+    "state": "opened",
+    "term": null,
+    "description": "",
+    "details": "",
+    "catchup": false
+  },
+  {
+    "id": 9,
+    "title": "MI Podcast Konzept entwickelt & Pilot produziert",
+    "url": "https://git-ce.rwth-aachen.de/micgn/community-game/community-game-core/-/work_items/9",
+    "points": [
+      20
+    ],
+    "scopes": [
+      "Fachcommunity",
+      "Hochschule",
+      "Studiengang"
+    ],
+    "teams": [
+      "Miniteam",
+      "Single"
+    ],
+    "status": "Accepted",
+    "state": "opened",
+    "term": null,
+    "description": "Ein Podcast für die Medieninformatik fehlt bisher. Diese Aktion soll das ändern: Ein Team entwickelt ein tragfähiges Konzept, überprüft es und produziert eine Pilotfolge. Das Ergebnis ist kein Wegwerfobjekt, sondern eine Grundlage, auf der aufgebaut werden kann. Ziel der Aktion E",
+    "details": "Ein Podcast für die Medieninformatik fehlt bisher. Diese Aktion soll das ändern: Ein Team entwickelt ein tragfähiges Konzept, überprüft es und produziert eine Pilotfolge. Das Ergebnis ist kein Wegwerfobjekt, sondern eine Grundlage, auf der aufgebaut werden kann.\n\n\n## Ziel der Aktion\n\n- Ein Podcast-Konzept entwickeln, das langfristig funktioniert\n- Erste praktische Erfahrungen mit Podcast-Produktion sammeln\n- Eine Pilotfolge produzieren und evaluieren\n\n## Teamgröße\n\n- Mini-Team (1 bis 3 Personen)\n- Diese Aktion kann von maximal drei Teams parallel durchgeführt werden\n\n## Aufgaben\n\n- Vergleichbare Formate und Podcasts analysieren\n- Zielgruppe definieren und analysieren\n- Inhaltliches Konzept entwickeln (ca. eine Folge pro Monat, dauerhaftes Format)\n- Skeleton-Elemente konzipieren und produzieren (z.B. Intro, Outro, Jingles für bestimmte Themenbereiche)\n- Pilotfolge produzieren\n- Pilotfolge und Konzept evaluieren\n\n## Definition of Done\n\n- Analyse vergleichbarer Formate liegt vor\n- Zielgruppe ist definiert und dokumentiert\n- Inhaltliches Konzept ist ausgearbeitet und dokumentiert\n- Mindestens ein Skeleton-Element ist produziert (Intro oder Outro)\n- Pilotfolge ist fertig produziert und veröffentlicht oder intern zugänglich gemacht\n- Evaluation der Pilotfolge und des Konzepts liegt vor\n- Alle Ergebnisse sind im Community-Projekt Miro hinterlegt\n\n## Mitwirkung\n\n- Bitte tragen Sie sich mit Namen in den Kommentaren ein.",
+    "catchup": true
+  },
+  {
+    "id": 31,
+    "title": "MI-KickOff",
+    "url": "https://git-ce.rwth-aachen.de/micgn/community-game/community-game-core/-/work_items/31",
+    "points": [
+      10
+    ],
+    "scopes": [
+      "Studiengang"
+    ],
+    "teams": [
+      "Miniteam",
+      "Team"
+    ],
+    "status": "Accepted",
+    "state": "closed",
+    "term": null,
+    "description": "Ein Team aus 4-8 Personen gestaltet den MI-KickOff für das WiSe26/27 mit dem Team aus dem AMI (Advanced Media Institute) neu und führt ihn am 11.09.2026 am Campus Gummersbach durch. Der MI-KickOff im Winter richtet sich in erster Linie an die Erstsemesterstudierenden des Bachelor",
+    "details": "Ein Team aus 4-8 Personen gestaltet den MI-KickOff für das WiSe26/27 mit dem Team aus dem AMI (Advanced Media Institute) neu und führt ihn am 11.09.2026 am Campus Gummersbach durch. Der MI-KickOff im Winter richtet sich in erster Linie an die Erstsemesterstudierenden des Bachelors und des Masters. \n\n## Vorbereitungsaufwand\n\n### Konzeptphase\n\n* bestehendes Format verstehen\n* ggfs Anpassungen entwickeln: Programmpunkte, Formate, Atmosphäre\n* Abstimmung mit Modul-Team und Studiengangsleitung\n* Konkrete Programmelemente ausarbeiten\n\n### Organisationsphase\n\n* Räume bzw. Locations am Campus reservieren\n* Material besorgen\n* Kommunikation an die zukünftigen Erstis vorbereiten (Begrüßungsmail, Programmübersicht)\n* Aufgabenverteilung im Orga-Team und Briefing der Helfer:innen\n* Ablauf- und Zeitplan finalisieren\n\n### Tag selbst\n\n* Aufbau\n* Durchführung mit Begleitung aller Programmpunkte und Moderation\n* Foto-Dokumentation\n* Abbau und Reinigung\n\n## Termin & Ort der Aktion\n\n* Tag der Erstsemesterbegrüßung: 11.09.2026\n* Campus Gummersbach\n\n## Dauer der Durchführung\n\n* Veranstaltung selbst: ca. 4–6 Stunden am 11.09.2026\n* Vor- und Nachbereitung verteilt über mehrere Wochen davor\n\n## Punkte-Vergabe\n\n* Organisation: 10–20 Punkte\n\nEmpfehlung zur Eingrenzung: 10 Punkte bei punktueller Weiterentwicklung des bestehenden Formats, 20 Punkte bei substanzieller Neugestaltung mit neuen Programmpunkten.\n\n## Definition of Done\n\n* Konzept ist dokumentiert und mit Modul-Team und Studiengangsleitung abgestimmt\n* Programmablauf für den 11.09.2026 steht, Räume sind vorbereitet\n* Material und Verpflegung sind besorgt\n* Kommunikation an die Erstis ist erfolgt (Begrüßungsmail, Programmübersicht o. Ä.)\n* Orga-Team ist gebrieft, Aufgaben sind verteilt\n* Veranstaltung wurde am 11.09.2026 durchgeführt\n* Kurzes Feedback der Erstis ist eingeholt (Stimmungsbild, kurze Umfrage o. Ä.)\n* Räume sind aufgeräumt und sauber zurückgegeben\n* Kurze Dokumentation der Veranstaltung ist auf dem Miro Board hinterlegt",
+    "catchup": false
+  },
+  {
+    "id": 32,
+    "title": "Nacht der Technik Köln 2026 — Videodokumentation",
+    "url": "https://git-ce.rwth-aachen.de/micgn/community-game/community-game-core/-/work_items/32",
+    "points": [
+      10
+    ],
+    "scopes": [
+      "Campus"
+    ],
+    "teams": [
+      "Miniteam"
+    ],
+    "status": "",
+    "state": "closed",
+    "term": null,
+    "description": "Einmal raus aus dem Hochschulalltag und rein in die Kölner Technikszene. Die Nacht der Technik öffnet Türen zu Unternehmen, Laboren und Projekten, die sonst nicht zugänglich sind — eine gute Gelegenheit, Köln als Technologiestandort besser kennenzulernen und zu dokumentieren, was",
+    "details": "Einmal raus aus dem Hochschulalltag und rein in die Kölner Technikszene. Die Nacht der Technik öffnet Türen zu Unternehmen, Laboren und Projekten, die sonst nicht zugänglich sind — eine gute Gelegenheit, Köln als Technologiestandort besser kennenzulernen und zu dokumentieren, was dort passiert. Mehr zur Veranstaltung: https://nacht-der-technik.de/koeln/\n\n## Zielgruppe\n\n- Alle Teilnehmenden des Community-Projekt-Moduls\n\n## Ziel der Aktion\n\n- Köln als Technologie- und Kreativstandort besser kennenlernen\n- Einblick in die lokale Technikszene gewinnen\n- Medienkompetenz praktisch einsetzen: Dokumentieren, schneiden, veröffentlichen\n\n## Teamgröße\n- Miniteam, aber es können beliebig viele Mini-Teams teilnehmen. \n\n## Aufgaben\n\n- Vorab: Locations und Programm sichten, Route oder Schwerpunkte festlegen\n- Abend: Mehrere Stationen besuchen, Eindrücke filmen und O-Töne sammeln\n- Nachbereitung: Material sichten, Video schneiden und veröffentlichen\n\n## Definition of Done\n\n- Sie waren am 3. Juli 2026 bei der Nacht der Technik Köln\n- Mindestens drei verschiedene Locations wurden besucht\n- Ein Video von 3 bis maximal 5 Minuten liegt vor (Hoch- oder Querformat)\n- Das Video ist geschnitten und zeigt Eindrücke der Veranstaltung sowie persönliche Takeaways\n- Alle gezeigten Personen haben einer Veröffentlichung zugestimmt, Musik und andere Medien sind rechtlich geklärt\n- Das Video ist öffentlich zugänglich (z.B. YouTube, Vimeo) und der Link ist im Issue hinterlegt\n- Kurzes Statement im Issue: Was haben Sie mitgenommen?\n\n\n## Mitwirkung\n\n- Bitte tragen Sie sich mit Namen in den Kommentaren ein.\n\n## Sicherung der Ergebnisse\nBitte hier ablegen. Ich würde die Filme ggf. auf Instagram und YouTube posten.\nhttps://th-koeln.sciebo.de/s/ctaKZ3NRRAEk6Za",
+    "catchup": false
+  },
+  {
+    "id": 33,
+    "title": "Nacht der Technik Köln 2026: gamifizierte Erkundungstour",
+    "url": "https://git-ce.rwth-aachen.de/micgn/community-game/community-game-core/-/work_items/33",
+    "points": [
+      5,
+      10
+    ],
+    "scopes": [
+      "Modul",
+      "Studiengang"
+    ],
+    "teams": [
+      "Miniteam",
+      "Single"
+    ],
+    "status": "Accepted",
+    "state": "opened",
+    "term": null,
+    "description": "Die Nacht der Technik ist mehr als ein Besuch, sie kann auch ein Spielfeld sein. Ein Orga-Team entwickelt ein gamifiziertes Format (Schnitzeljagd, Challenge, Quiz oder ähnliches), das andere Teilnehmende motiviert, die Veranstaltung aktiv zu erkunden. Das Format ist frei wählbar ",
+    "details": "Die Nacht der Technik ist mehr als ein Besuch, sie kann auch ein Spielfeld sein. Ein Orga-Team entwickelt ein gamifiziertes Format (Schnitzeljagd, Challenge, Quiz oder ähnliches), das andere Teilnehmende motiviert, die Veranstaltung aktiv zu erkunden. Das Format ist frei wählbar — entscheidend ist, dass es funktioniert, Spaß macht und dokumentiert wird.\n\n## Zielgruppe\n\n- Alle Teilnehmenden des Community-Projekt-Moduls\n\n## Ziel der Aktion\n\n- Andere motivieren, die Nacht der Technik aktiv zu erleben\n- Ein eigenes gamifiziertes Format konzipieren, erproben und reflektieren\n- Erfahrungen mit Event-Design und Community-Aktivierung sammeln\n\n## Teamgröße\n\n- Orga-Team: 1 bis 3 Personen (diese Aktion kann nur ein Team übernehmen)\n- Teilnehmende: offen, so viele wie möglich\n\n## Aufgaben Orga-Team\n\n- Gamifiziertes Format entwickeln (Schnitzeljagd, Challenge, Rätsel o.ä.)\n- Konzept mit Uwe absprechen\n- Format am 3. Juli 2026 bei der Nacht der Technik durchführen\n- Konzept und Learnings dokumentieren\n\n## Definition of Done\n\n### Orga-Team (10 Punkte)\n\n- Konzept für ein gamifiziertes Format liegt vor\n- Konzept wurde mit Uwe abgesprochen und freigegeben\n- Format wurde am 3. Juli 2026 bei der Nacht der Technik durchgeführt\n- Mindestens drei weitere Personen haben teilgenommen\n- Konzept ist dokumentiert (Beschreibung, Regeln, Ablauf)\n- Learnings sind dokumentiert: Was hat funktioniert, was nicht?\n- Dokumentation ist im Community-Projekt Miro hinterlegt\n\n### Teilnehmende (5 Punkte)\n\n- Sie haben am gamifizierten Format während der Nacht der Technik teilgenommen\n- Sie tragen sich mit Namen in den Kommentaren ein\n\n## Punktevergabe\n\n- Orga-Team: 10 Punkte\n- Teilnehmende: 5 Punkte\n\n## Mitwirkung\n\n- Bitte tragen Sie sich mit Namen in den Kommentaren ein.",
+    "catchup": false
+  },
+  {
+    "id": 18,
+    "title": "Painting Party",
+    "url": "https://git-ce.rwth-aachen.de/micgn/community-game/community-game-core/-/work_items/18",
+    "points": [
+      5,
+      7
+    ],
+    "scopes": [
+      "Modul"
+    ],
+    "teams": [
+      "Miniteam",
+      "Single"
+    ],
+    "status": "Accepted",
+    "state": "opened",
+    "term": null,
+    "description": "Beschreibung Das Orga-Team organisiert einen gemeinsamen Mal- und Getränkeabend am Campus Gummersbach. Neben Cocktails und Mocktails (niemand soll sich zum Alkoholkonsum gedrängt fühlen, alkoholfreie Alternativen stehen gleichwertig zur Verfügung) wird zu einem gemeinsam gewählte",
+    "details": "## Beschreibung\n\nDas Orga-Team organisiert einen gemeinsamen Mal- und Getränkeabend am Campus Gummersbach. Neben Cocktails und Mocktails (niemand soll sich zum Alkoholkonsum gedrängt fühlen, alkoholfreie Alternativen stehen gleichwertig zur Verfügung) wird zu einem gemeinsam gewählten Thema gemalt. Am Ende des Abends stimmen alle Teilnehmenden darüber ab, welches Bild am besten getroffen ist. Der Fokus liegt auf entspanntem Austausch und Kennenlernen in lockerer Atmosphäre.\n\n## Zielgruppe\n\n- Studierende im Modul „Communityprojekt\"\n\n## Ziel der Aktion\n\n- Ungezwungener Austausch untereinander\n- Kennenlernen in lockerer Atmosphäre\n- Kreativer Ausgleich zum Studienalltag\n\n## Teamgröße\n\n- Orga-Team: 3 bis 4 Personen\n\n## Vorbereitungsaufwand\n\n### Orga-Team (einmalig)\n\n- Termin festlegen und mit dem Modul-Team abstimmen\n- Raum mit Tischen sichern (abwischbare Oberflächen oder Tischschutz einplanen)\n- Malthema festlegen oder Auswahl vorbereiten (z. B. mehrere Themen zur Abstimmung am Abend)\n- Getränke planen: Cocktails und Mocktails in gleicher Auswahl, Zutaten und Rezepte vorbereiten\n- Materialien besorgen: Leinwände oder Blätter, Farben, Pinsel, Wasserbecher, Tischschutz\n- Ablauf für die Abstimmung am Ende festlegen (z. B. anonyme Punktevergabe, Publikumspreis)\n- Einladung im Modul kommunizieren, ggf. mit Anmeldung für die Materialplanung\n- Musik oder Playlist für die Atmosphäre vorbereiten\n\n## Ort der Aktion\n\n- TH Köln, Campus Gummersbach\n\n## Dauer der Durchführung\n\n- Ca. 2 bis 3 Stunden\n\n## Benötigte Materialien & Ressourcen\n\n- Raum mit Tischen\n- Leinwände oder Blätter\n- Farben (Wasser- oder Acrylfarben), Pinsel, Wasserbecher\n- Tischschutz oder abwischbare Unterlagen\n- Zutaten für Cocktails und Mocktails, Gläser, Eis\n- Kleiner Preis für das Gewinnerbild (optional)\n\n## Mitwirkung\n\n- Orga-Team: bitte in die Kommentare eintragen und @anna.stein markieren\n- Teilnehmer:innen: bitte in die Kommentare eintragen\n\n## Punkte-Vergabe\n\n- Organisation: 10 Punkte\n- Teilnahme: 5 Punkte\n\n## Definition of Done\n\n### Orga-Team (einmalig, 5 Punkte)\n\n- Termin und Raum sind festgelegt und mit dem Modul-Team abgestimmt\n- Malthema (oder Auswahl zur Abstimmung) steht\n- Getränke sind geplant, Cocktails und Mocktails sind gleichwertig verfügbar\n- Materialien sind in ausreichender Menge besorgt\n- Ablauf für die Abstimmung ist festgelegt\n- Einladung ist im Modul kommuniziert\n- Abend wurde durchgeführt (Aufbau, Malen, Abstimmung, Abbau)\n- Raum ist sauber hinterlassen\n- Aktion via Fotos und/oder Video dokumentiert: [Upload Link](https://th-koeln.sciebo.de/s/ctaKZ3NRRAEk6Za)\n\n\n### Teilnahme (3 Punkte)\n\n- Am Abend teilgenommen\n- Eigenes Bild gemalt\n- An der Abstimmung teilgenommen\n- Dokumentation der Teilnahme erfolgt im Portfolio",
+    "catchup": false
+  },
+  {
+    "id": 24,
+    "title": "Picknicken",
+    "url": "https://git-ce.rwth-aachen.de/micgn/community-game/community-game-core/-/work_items/24",
+    "points": [
+      3,
+      5
+    ],
+    "scopes": [
+      "Modul"
+    ],
+    "teams": [
+      "Miniteam",
+      "Single"
+    ],
+    "status": "",
+    "state": "opened",
+    "term": null,
+    "description": "Beschreibung: In eine Kleingruppe wird an einem sonnigen Tag gepicknickt. Ort und Tag müssen organisiert werden und alle Teilnehmer versorgen sich selber mit Essen, Getränken und Spielen. Zielgruppe:",
+    "details": "**Beschreibung:**\n\nIn eine Kleingruppe wird an einem sonnigen Tag gepicknickt. Ort und Tag müssen organisiert werden und alle Teilnehmer versorgen sich selber mit Essen, Getränken und Spielen.\n\n**Zielgruppe:**\n\n- Studenten des Moduls \"Communityprojekt\"\n\n**Ziel des Workshops:**\n\n- gemeinsam in einer Kleingruppe das Wetter genießen und eine schöne Zeit verbringen\n\n**Teamgröße:**\n\n- 3 bis 6 Personen\n\n**Vorbereitungsaufwand:**\n\n- Picknickdecke\n- Verpflegung\n- Spiele\n- Ort und Datum\n\n**Ort der Aktion:**\n\n- offen\n\n**Dauer der Durchführung:**\n\n- 1 bis 2 Stunden\n\n**Punkte Vergabe:**\n\n- Organisation: 5 Punkte\n- Teilnahme: 3 Punkte\n\n**Definition of Done**\n\n- Picknick organisiert\n\n[cp-picknick.pdf](/uploads/a83c898ab175ecc9c69f8743d7080092/cp-picknick.pdf)",
+    "catchup": false
+  },
+  {
+    "id": 34,
+    "title": "REWE digital Tech-Talk: Community Event Besuch | WICHTIG: Termin verschoben!!!!",
+    "url": "https://git-ce.rwth-aachen.de/micgn/community-game/community-game-core/-/work_items/34",
+    "points": [
+      7
+    ],
+    "scopes": [
+      "Fachcommunity"
+    ],
+    "teams": [
+      "Miniteam",
+      "Single"
+    ],
+    "status": "",
+    "state": "closed",
+    "term": null,
+    "description": "Community Events sind der Ort, wo Szene entsteht. Wer noch nie bei einem Tech-Talk war, weiß nicht, wie sich das anfühlt: fremde Leute, neue Themen, ein anderes Umfeld als die Hochschule. Genau darum geht es bei dieser Aktion. Der REWE digital Tech-Talk am 16. Juli 2026 (VERSCHOB",
+    "details": "Community Events sind der Ort, wo Szene entsteht. Wer noch nie bei einem Tech-Talk war, weiß nicht, wie sich das anfühlt: fremde Leute, neue Themen, ein anderes Umfeld als die Hochschule. Genau darum geht es bei dieser Aktion. Der REWE digital Tech-Talk am 16. Juli 2026 (VERSCHOBEN VOM 25.Juni 2026) in Köln ist eine gute Gelegenheit, diesen Schritt zu machen.\n\nEinlass: 18:00 Uhr, Beginn: 19:00 Uhr, Schanzenstraße, Köln.\nhttps://www.meetup.com/rewe-digital-events-cologne/\n\n## Zielgruppe\n\n- Alle Teilnehmenden des Community-Projekt-Moduls\n\n## Ziel der Aktion\n\n- Die eigene Komfortzone verlassen\n- Ein Community Event aus der Technikszene kennenlernen\n- Eindrücke reflektieren und im Studienkontext teilen\n\n## Teamgröße\n\n- Einzelpersonen oder Gruppen, keine Begrenzung\n\n## Aufgaben\n\n- Beim REWE digital Tech-Talk erscheinen\n- Ein paar Fotos machen (wo erlaubt)\n- In der nächsten Community-Projekt-Veranstaltung kurz berichten\n\n## Definition of Done\n\n- Sie waren am 16. Juli 2026 beim REWE digital Tech-Talk in der Schanzenstraße\n- In der nächsten Community-Projekt-Veranstaltung haben Sie eine kurze Präsentation gehalten (ca. 3 bis 5 Minuten) mit ein paar Fotos\n- Die Präsentation enthält: was bei der Veranstaltung passiert ist, was interessant war, wie Sie sich gefühlt haben und was Sie mitgenommen haben\n\n## Punktevergabe\n\n- 7 Punkte pro Person\n\n## Mitwirkung\n\n- Bitte tragen Sie sich mit Namen in den Kommentaren ein.",
+    "catchup": false
+  },
+  {
+    "id": 49,
+    "title": "Run-Club",
+    "url": "https://git-ce.rwth-aachen.de/micgn/community-game/community-game-core/-/work_items/49",
+    "points": [
+      3,
+      10
+    ],
+    "scopes": [
+      "Campus",
+      "Modul",
+      "Studiengang"
+    ],
+    "teams": [
+      "Miniteam",
+      "Single"
+    ],
+    "status": "Accepted",
+    "state": "opened",
+    "term": null,
+    "description": "Studenten/Mitarbeiter der TH Köln GM versammeln sich am Campus Gummersbach und laufen zusammen. Eventuel Getränke/kleine Versorgung am Ende organisieren. Ziel des Clubs: gemeinsam Zeit verbringen",
+    "details": "Studenten/Mitarbeiter der TH Köln GM versammeln sich am Campus Gummersbach und laufen zusammen. Eventuel Getränke/kleine Versorgung am Ende organisieren.\n\n## Ziel des Clubs:\n- gemeinsam Zeit verbringen \n- Fit bleiben\n\n## Teamgröße:\n- 1 bis 2 Personen\n\n## Vorbereitungsaufwand\n\n### Orga-Team (1-2 Personen, einmalig + laufend)\n\n- Konzept festlegen: Format, Rhythmus, Strecke, KM-Zahl,...\n- Erste Termine festlegen, idealerweise als Serie über das Semester\n- Kommunikationskanal aufsetzen (Slack-Channel, Mailingliste, Kalender-Einladung) und hier kommunizieren\n- Einladungen und Erinnerungen rechtzeitig versenden\n- Ein paar Bilder und ein kurzes Video von den Treffen. [Upload Link](https://th-koeln.sciebo.de/s/ctaKZ3NRRAEk6Za)\n\n\n## Mitwirkung \n- Orga-Team: bitte in die Kommentare eintragen und @anna.stein markieren\n- Teilnehmer:innen: bitte in die Kommentare eintragen\n\n## Punkte Vergabe\n\n### Orga-Team \n- einmalig, 10 Punkte\n\n### Teilnahme \n- pro Treffen, 3 Punkte",
+    "catchup": false
+  },
+  {
+    "id": 55,
+    "title": "Schifffahrt von Köln nach Düsseldorf",
+    "url": "https://git-ce.rwth-aachen.de/micgn/community-game/community-game-core/-/work_items/55",
+    "points": [
+      5,
+      10
+    ],
+    "scopes": [
+      "Modul",
+      "Studiengang"
+    ],
+    "teams": [
+      "Miniteam",
+      "Single"
+    ],
+    "status": "Accepted",
+    "state": "opened",
+    "term": null,
+    "description": "Die Teilnehmenden unternehmen gemeinsam eine Schifffahrt von Köln nach Düsseldorf. Dort verbringen sie etwas Freizeit (Spaziergang, Cafébesuch,...) und fahren anschließend mit dem Schiff zurück nach Köln. Teamgröße: 2 Personen",
+    "details": "Die Teilnehmenden unternehmen gemeinsam eine Schifffahrt von Köln nach Düsseldorf. Dort verbringen sie etwas Freizeit (Spaziergang, Cafébesuch,...) und fahren anschließend mit dem Schiff zurück nach Köln. \n\n## Teamgröße:\n- 2 Personen\n\n## Definition of Done\n\n### Orga-Team (einmalig, 5 Punkte)\n\n- Terminplanung\n- Treffpunkt\n- Kommunikationskanal aufsetzen und hier kommunizieren\n- kleines Video und ein paar Bilder vom Event [Upload Link](https://th-koeln.sciebo.de/s/ctaKZ3NRRAEk6Za)\n\n### Teilnahme (10 Punkte)\n\n## Mitwirkung \n- Orga-Team: bitte in die Kommentare eintragen und @anna.stein markieren\n- Teilnehmer:innen: bitte in die Kommentare eintragen",
+    "catchup": false
+  },
+  {
+    "id": 45,
+    "title": "Skill-Swap Event",
+    "url": "https://git-ce.rwth-aachen.de/micgn/community-game/community-game-core/-/work_items/45",
+    "points": [
+      5,
+      7
+    ],
+    "scopes": [
+      "Campus",
+      "Modul",
+      "Studiengang"
+    ],
+    "teams": [
+      "Miniteam",
+      "Single"
+    ],
+    "status": "Proposal",
+    "state": "opened",
+    "term": null,
+    "description": "Jeder bereitet keine Stände vor, was die Person besonders gut kann, oder wo die Personen besonderes Interesse dran hat (z.B. Kochen, Programmieren, Sprachen, Musik, Computerspiele, ...). Andere Teilnehmer können sich dann den Stand/Workshop anschauen und eventuell auch was neues ",
+    "details": "Jeder bereitet keine Stände vor, was die Person besonders gut kann, oder wo die Personen besonderes Interesse dran hat (z.B. Kochen, Programmieren, Sprachen, Musik, Computerspiele, ...). Andere Teilnehmer können sich dann den Stand/Workshop anschauen und eventuell auch was neues lernen.\n\n## Ziel der Aktion:\n- Austausch über Skills und damit verbundenes Interesse  \n\n## Teamgröße:\n- 3 bis 4 Personen\n\n## Vorbereitungsaufwand\n\n### Orga-Team (3-4 Personen, einmalig) -> 5 Punkte\n\n- Konzept festlegen: Ort, Zeit, Datum, Stände,...\n- Einladungen und Erinnerungen rechtzeitig versenden\n\n### Teilnehmer:innen (pro Treffen) -> 5 Punkte\n\n- hat einen Stand vorbereitet und vorgeführt\n\n## Mitwirkung \n- Orga-Team: bitte in die Kommentare eintragen und @anna.stein markieren\n- Teilnehmer:innen: bitte in die Kommentare eintragen",
+    "catchup": false
+  },
+  {
+    "id": 28,
+    "title": "Spiele Abend",
+    "url": "https://git-ce.rwth-aachen.de/micgn/community-game/community-game-core/-/work_items/28",
+    "points": [
+      2,
+      5
+    ],
+    "scopes": [
+      "Modul"
+    ],
+    "teams": [
+      "Miniteam",
+      "Single"
+    ],
+    "status": "Accepted",
+    "state": "opened",
+    "term": null,
+    "description": "Das Team organisiert einen Spiele-Abend bei dem Leute sein Lieblingsspiel mitbringt. Gemeinsam wird entschieden, ob in einer größeren Gruppe 1 Spiel gespielt wird oder in kleineren Gruppen verschiedene Spiele gespielt werden. Ziel des Workshops: Socializing",
+    "details": "Das Team organisiert einen Spiele-Abend bei dem Leute sein Lieblingsspiel mitbringt. Gemeinsam wird entschieden, ob in einer größeren Gruppe 1 Spiel gespielt wird oder in kleineren Gruppen verschiedene Spiele gespielt werden.\n\n## Ziel des Workshops:\n\n- Socializing\n\n## Teamgröße:\n\n- 2 bis 3 Personen\n\n## Mitwirkung\n- bitte als Assignee zuweisen. \n\n## Vorbereitungsaufwand:\n\n- Raum organisieren\n- Spiele organisieren\n- Teilnehmer:innen organisieren\n- ggf. Snacks\n\n## Ort der Aktion:\n\n- Campus Gummersbach\n\n## Dauer der Durchführung:\n\n- 2 bis 3 Stunden\n\n## Benötigte Materialien & Ressourcen:\n\n- Raum\n- Tische\n- Spiele\n\n## Punkte Vergabe:\n\n- Organisation: 5 Punkte\n- Teilnahme: 2 Punkte\n\n## Definition of Done:\n\n- Spiele-Abend organisiert und durchgeführt\n- teilgenommen\n\n[cp-spieleabend1.pdf](/uploads/7b968ba60fef3c5e6070e211485beed0/cp-spieleabend1.pdf)\n\n[cp-spieleabend2.pdf](/uploads/48b9c56cdefe687b514fe37331f8dfe0/cp-spieleabend2.pdf)",
+    "catchup": false
+  },
+  {
+    "id": 29,
+    "title": "Spiele-Abend online",
+    "url": "https://git-ce.rwth-aachen.de/micgn/community-game/community-game-core/-/work_items/29",
+    "points": [
+      1,
+      2,
+      3,
+      5
+    ],
+    "scopes": [
+      "Modul",
+      "Studiengang"
+    ],
+    "teams": [
+      "Miniteam",
+      "Single"
+    ],
+    "status": "Proposal",
+    "state": "opened",
+    "term": null,
+    "description": "Beschreibung: Das Team organisiert einen Spiele-Abend bei dem verschiedene Spiele online gespielt werden können. Gemeinsam wird entschieden, ob in einer größeren Gruppe 1 Spiel gespielt wird oder in kleineren Gruppen verschiedene Spiele gespielt werden. Ziel des Workshops:",
+    "details": "**Beschreibung:**\n\nDas Team organisiert einen Spiele-Abend bei dem verschiedene Spiele online gespielt werden können. Gemeinsam wird entschieden, ob in einer größeren Gruppe 1 Spiel gespielt wird oder in kleineren Gruppen verschiedene Spiele gespielt werden.\n\n**Ziel des Workshops:**\n\n- Leute kennenlernen \n\n**Teamgröße:**\n\n- 2 bis 3 Personen\n\n**Vorbereitungsaufwand:**\n\n- Raum organisieren\n- Spiele organisieren\n- Termin organisieren\n\n**Ort der Aktion:**\n\n- Campus Gummersbach oder auch online\n\n**Dauer der Durchführung:**\n\n- 3 bis 4 Stunden\n\n**Benötigte Materialien & Ressourcen:**\n\n- PC/ Laptop\n- (Raum)\n\n**Punkte Vergabe:**\n\n- Organisation: 5 Punkte\n- Teilnahme: 3 Punkte\n- Bei Gewinnern zusätzlich:\n  * 1\\. Platz: 3 Punkte\n  * 2\\. Platz: 2 Punkte\n  * 3\\. Platz: 1 Punkt\n\n**Definition of Done:**\n\n- Spiele-Abend organisiert und durchgeführt\n- teilgenommen\n\n[cp-gamingabend2.pdf](/uploads/7a19c97010bd7a69d18dbda534d82106/cp-gamingabend2.pdf)\n\n[cp-gamingabend.pdf](/uploads/2461227ff10a01a2c3b1239ac32e87ce/cp-gamingabend.pdf)",
+    "catchup": false
+  },
+  {
+    "id": 7,
+    "title": "Studiengangsfrühstück/ Weihnachtsfrühstück oder Ähnliches organisiert und durchgeführt",
+    "url": "https://git-ce.rwth-aachen.de/micgn/community-game/community-game-core/-/work_items/7",
+    "points": [
+      10
+    ],
+    "scopes": [
+      "Campus",
+      "Studiengang"
+    ],
+    "teams": [
+      "Team"
+    ],
+    "status": "",
+    "state": "closed",
+    "term": null,
+    "description": "Ein gemeinsames Frühstück oder vergleichbares Get-Together wird im Studiengang geplant, durchgeführt und nachbereitet. Die Aktion umfasst den gesamten Bogen vom Konzept über Einkauf und Aufbau bis zum Abbau und einer kurzen Dokumentation. Definition of Done Termin, Ort und Anlass",
+    "details": "Ein gemeinsames Frühstück oder vergleichbares Get-Together wird im Studiengang geplant, durchgeführt und nachbereitet. Die Aktion umfasst den gesamten Bogen vom Konzept über Einkauf und Aufbau bis zum Abbau und einer kurzen Dokumentation.\n\n\n## Definition of Done\n\n- Termin, Ort und Anlass sind festgelegt und mit dem Modul-Team abgestimmt\n- Einladung ist rechtzeitig im Studiengang kommuniziert (Mail, Aushang o. Ä.)\n- Budget steht fest und ist ggf. vom Modul-Team freigegeben\n- Einkauf, Geschirr und sonstiges Material sind organisiert, inkl. Berücksichtigung verschiedener Ernährungsweisen\n- Veranstaltung hat stattgefunden, Auf- und Abbau sind erledigt\n- Räumlichkeit ist sauber hinterlassen, Belege sind gesammelt und abgegeben (falls Budget genutzt wurde)\n- Kurze Dokumentation (Foto, ein paar Sätze) ist im Community-Projekt Miro hinterlegt\n\n## Mitwirkung\n- bitte als Assignees zuweisen\n- max. 5 Mitwirkende",
+    "catchup": false
+  },
+  {
+    "id": 11,
+    "title": "Teilnahme am Startup Day der Hochschule",
+    "url": "https://git-ce.rwth-aachen.de/micgn/community-game/community-game-core/-/work_items/11",
+    "points": [
+      7
+    ],
+    "scopes": [
+      "Fachcommunity"
+    ],
+    "teams": [
+      "Single"
+    ],
+    "status": "",
+    "state": "closed",
+    "term": null,
+    "description": "Heute ist Startup Tag am Campus Deutz … und da gehen wir mal schön hin. Was umfasst die Aktion? hingehen, pünktlich sein",
+    "details": "Heute ist Startup Tag am Campus Deutz … und da gehen wir mal schön hin.\n\n## Was umfasst die Aktion?\n- hingehen, pünktlich sein\n- teilnehmen\n- netzwerken\n- Fotos schießen\n- kleines Video machen\n\n## Teilnahme \n- für das Event ist eine Anmeldung erforderlich s.u. \n- bitte hier einmal kommentieren, wenn Sie teilnehmen (für unsere Orga)\n- gerne auch Bilder von der Veranstaltung als Kommentar anhängen\n\n## [Anmeldung erforderlich](https://www.th-koeln.de/hochschule/start-up-tag-th-koeln-2026_133265.php)\n\nDer Start-up-Tag bietet die Gelegenheit, sich über die Gründungsunterstützungsmöglichkeiten an der TH Köln zu informieren. Von der Nutzung des MakerSpaces über Beratungsangebote und Veranstaltungen bis hin zur Förderung von konkreten Gründungsvorhaben finden Interessierte Informationen und Beratung zu dem vielfältigen Angebot von Gateway TH Köln.\n\nWann: Donnerstag, 11. Juni 2026 von 16 bis 20 Uhr\n\nWo: MakerSpace/Coworking Space am Campus Deutz (Eine Wegbeschreibung finden Sie [hier](https://www.th-koeln.de/mam/bilder/forschung/video_dein_weg_zum_gateway.mov), einen Lageplan gibt es [hier](https://www.th-koeln.de/mam/downloads/deutsch/forschung/lageplan_gatway_th_koln_campus_deutz_neu.pdf))\n\n**Das Programm:**\n\nLiebe Kolleginnen und Kollegen,\n\nan der TH Köln entstehen täglich innovative Ideen und Projekte. Beim Start-up-Tag am 11. Juni 2026 im StartupSpace des TH Köln Campus Deutz stellt eine Vielzahl von Teams ihre spannenden Projekte vor. Von VR-Telefonie, die Gespräche wie ein echtes Treffen wirken lässt, einer App für personalisierte Supplement-Empfehlungen nach Zyklus & Bedarf oder einer Mischung aus Brettspiel und digitalem Gaming für ein neues Spielerlebnis – lassen Sie sich von den Ideen unserer aktuellen \"KickStarter\" begeistern.\n\nDer Start-up-Tag bietet die Gelegenheit, sich über die Gründungsunterstützungsmöglichkeiten an der TH Köln zu informieren. Von der Nutzung des MakerSpaces über Beratungsangebote und Veranstaltungen bis hin zur Förderung von konkreten Gründungsvorhaben finden Interessierte Informationen und Beratung zu dem vielfältigen Angebot von Gateway TH Köln.\n\nWir laden Sie hiermit herzlich zum Start-up-Tag ein und freuen uns, wenn Sie die Einladung mit Studierenden und Interessierten teilen möchten (siehe Folienvorlage im Anhang). Um Anmeldung (https://www.th-koeln.de/hochschule/start-up-tag-th-koeln-2026_133265.php) wird gebeten.\n\nWann: Donnerstag, 11. Juni 2026 von 16 bis 20 Uhr\nWo: MakerSpace/Coworking Space am Campus Deutz (Eine Wegbeschreibung finden Sie hier, einen Lageplan gibt es hier)\n\nDas Programm:\n\n**16:15 – 17:15**\nBeim Gründertalk erzählen Gründerinnen und Gründer von kleinen Rückschlägen und großen Erfolgen sowie ihren Zukunfts-Plänen: Nach einem kurzen Pitch geht es auch gleich in den Talk und die Fragerunde aus dem Publikum über.\n\n**17:15 - 18:15**\nDie Teams der aktuellen sowie der letzten Runde von KickStart präsentieren ihre Prototypen. Treffen Sie die Studierenden, die hinter den Projekten stehen und tauschen Sie sich aus.\n\n**bis 20.00 Uhr**\nLassen Sie den Abend bei uns ausklingen und genießen Sie das Gespräch mit anderen Gründungsinteressierten, Mitarbeitenden der Hochschule und externen Gästen. Für kostenlose, kühle Getränke ist gesorgt.",
+    "catchup": false
+  },
+  {
+    "id": 1,
+    "title": "Teilnahme an den Präsenzveranstaltungen",
+    "url": "https://git-ce.rwth-aachen.de/micgn/community-game/community-game-core/-/work_items/1",
+    "points": [
+      5
+    ],
+    "scopes": [
+      "Modul"
+    ],
+    "teams": [],
+    "status": "Accepted",
+    "state": "opened",
+    "term": null,
+    "description": "Die Präsenztermine sind der zentrale Ort für Austausch, Zusammenarbeit und gemeinsame Erfahrungen im Modul. Sie leben davon, dass alle aktiv dabei sind und sich einbringen. Durch Anwesenheit, Beteiligung und gemeinsames Arbeiten entsteht die Community im Modul. Teilnahme Ohne Zuw",
+    "details": "Die Präsenztermine sind der zentrale Ort für Austausch, Zusammenarbeit und gemeinsame Erfahrungen im Modul. Sie leben davon, dass alle aktiv dabei sind und sich einbringen. Durch Anwesenheit, Beteiligung und gemeinsames Arbeiten entsteht die Community im Modul.\n\n## Teilnahme\nOhne Zuweisung möglich. Einfachen kommen.\n\n## Definition of Done\n\n- Du bist pünktlich zur Veranstaltung erschienen und bis zum Ende geblieben.\n- Du warst vorbereitet und hast erforderliche Materialien mitgebracht.\n- Du hast dich aktiv beteiligt, zum Beispiel durch Beiträge, Diskussionen oder Mitarbeit an Aufgaben.",
+    "catchup": false
+  },
+  {
+    "id": 56,
+    "title": "TH und MI Vorstellung an Bildungseinrichtungen vorstellen",
+    "url": "https://git-ce.rwth-aachen.de/micgn/community-game/community-game-core/-/work_items/56",
+    "points": [
+      5,
+      10
+    ],
+    "scopes": [
+      "Modul",
+      "Studiengang"
+    ],
+    "teams": [
+      "Miniteam",
+      "Single"
+    ],
+    "status": "Accepted",
+    "state": "opened",
+    "term": null,
+    "description": "Vorbereitung eines Workshops für Schulen/Bildungseinrichtungen im Umkreis über die TH und/oder die MI. (Evtll Verknüpfung mit Seminaren für Erstis) Ziel der Aktion: Motivation/Interesse für angehende Studenten wecken",
+    "details": "Vorbereitung eines Workshops für Schulen/Bildungseinrichtungen im Umkreis über die TH und/oder die MI. (Evtll Verknüpfung mit Seminaren für Erstis)\n\n## Ziel der Aktion:\n- Motivation/Interesse für angehende Studenten wecken\n\n## Teamgröße:\n- 2 bis 3 Personen\n\n## Definition of Done\n\n### Orga-Team (einmalig, 10 Punkte)\n\n- Terminplanung\n- Konzeptplanung des Workshops (interaktv)\n- pro Durchlauf eines Workshops +5 weitere Punkte\n\n## Mitwirkung \n- Orga-Team: bitte in die Kommentare eintragen und @anna.stein markieren",
+    "catchup": false
+  },
+  {
+    "id": 52,
+    "title": "Tischtennis-Turnier",
+    "url": "https://git-ce.rwth-aachen.de/micgn/community-game/community-game-core/-/work_items/52",
+    "points": [
+      5,
+      10
+    ],
+    "scopes": [
+      "Campus",
+      "Modul",
+      "Studiengang"
+    ],
+    "teams": [
+      "Miniteam",
+      "Single",
+      "Team"
+    ],
+    "status": "Accepted",
+    "state": "opened",
+    "term": null,
+    "description": "Beschreibung: Das Team organisiert ein Tischtennis-Turnier und führt dieses auch durch. Das Tischtennis-Turnier findet zwischen der verschiedenen Studiengängen der TH-Köln statt. Zielgruppe:",
+    "details": "**Beschreibung:**\n\nDas Team organisiert ein Tischtennis-Turnier und führt dieses auch durch. Das Tischtennis-Turnier findet zwischen der verschiedenen Studiengängen der TH-Köln statt.\n\n**Zielgruppe:**\n- alle die Interesse an Tischtennis haben\n\n**Ziel der Aktion:**\n- Kennenlernen \n- Kontakte knüpfen\n\n**Teamgröße:**\n- 3-4 Personen (organisation)\n\n**Vorbereitungsaufwand:**\n- Ort organisieren\n- Termin vereinbaren\n- Ressourcen, Pokale organisieren\n\n**Ort der Aktion:**\n- Campus Gummersbach\n\n**Dauer der Durchführung:**\n- 2-3 Stunden\n\n**Punktevergabe:**\n- für die Organisation: 10 Punkte\n- für die Teilnahme: 5 Punkte\n\n**Definition of Done**\n- Turnier vorbereitet und organisiert\n- Turnier durchgeführt\n- Turnier mit ein paar Bildern und Videos dokumentiert: [Upload Link](https://th-koeln.sciebo.de/s/ctaKZ3NRRAEk6Za)",
+    "catchup": false
+  },
+  {
+    "id": 10,
+    "title": "Townsquare Meeting konzipiert, organisiert, durchgeführt und dokumentiert",
+    "url": "https://git-ce.rwth-aachen.de/micgn/community-game/community-game-core/-/work_items/10",
+    "points": [
+      10
+    ],
+    "scopes": [
+      "Studiengang"
+    ],
+    "teams": [
+      "Miniteam",
+      "Team"
+    ],
+    "status": "Accepted",
+    "state": "opened",
+    "term": null,
+    "description": "Das Town Square Meeting bringt alle zusammen, die Lust haben, den Studiengang mitzugestalten. Einmal im Semester versammeln sich Medieninformatik-Studierende, sprechen darüber was gut läuft, was besser werden könnte und was auf keinen Fall verloren gehen darf. Das geht über das S",
+    "details": "Das Town Square Meeting bringt alle zusammen, die Lust haben, den Studiengang mitzugestalten. Einmal im Semester versammeln sich Medieninformatik-Studierende, sprechen darüber was gut läuft, was besser werden könnte und was auf keinen Fall verloren gehen darf. Das geht über das Studium hinaus: Campus, Köln, Community. Was passiert gerade in der Stadt? Welche Formate, Messen oder Ereignisse sind relevant? Das Meeting kann auch als Teil des Medieninformatik Showcases stattfinden.\n\n## Zielgruppe\n\n- Alle Medieninformatikstudierenden (offen, keine Anmeldung nötig)\n- Punkte gibt es nur für Teilnehmende des Community-Projekt-Moduls\n\n## Ziel der Aktion\n\n- Den Studiengang einmal im Semester gemeinsam reflektieren\n- Ideen und Impulse für die Weiterentwicklung der Community sammeln\n- Vernetzung innerhalb des Studiengangs stärken\n\n## Teamgröße\n\n- Orga-Team: Mini-Team (1 bis 3 Personen)\n- Teilnehmende: offen\n\n## Aufgaben\n\n- Termin festlegen und mit dem Modulteam abstimmen\n- Einladung an alle Medieninformatikstudierenden kommunizieren\n- Format und Agenda vorbereiten (Moderation, Leitfragen, ggf. Input-Impulse)\n- Meeting durchführen und moderieren\n- Ergebnisse, Ideen und Beschlüsse dokumentieren und teilen\n- Termin bitte mit Christian Noss abstimmen. \n\n## Definition of Done\n\n### Orga-Team (10 Punkte)\n\n- Termin ist rechtzeitig kommuniziert und das Meeting hat stattgefunden\n- Mindestens zehn Personen haben teilgenommen\n- Agenda und Moderation waren vorbereitet\n- Ergebnisse sind dokumentiert und für alle Teilnehmenden zugänglich\n- Dokumentation ist im Community-Projekt Miro hinterlegt\n\n### Teilnehmende (3 Punkte)\n\n- Sie haben am Town Square Meeting teilgenommen\n- Sie tragen sich mit Namen in den Kommentaren ein\n\n## Punktevergabe\n\n- Orga-Team: 10 Punkte\n- Teilnehmende: 3 Punkte\n\n## Mitwirkung\n\n- Bitte tragen Sie sich mit Namen in den Kommentaren ein.",
+    "catchup": false
+  },
+  {
+    "id": 39,
+    "title": "UNO No Mercy spielen",
+    "url": "https://git-ce.rwth-aachen.de/micgn/community-game/community-game-core/-/work_items/39",
+    "points": [
+      3,
+      5,
+      7
+    ],
+    "scopes": [
+      "Modul",
+      "Studiengang"
+    ],
+    "teams": [
+      "Miniteam",
+      "Single"
+    ],
+    "status": "Accepted",
+    "state": "opened",
+    "term": null,
+    "description": "Ein Orga-Team veranstaltet einen gemeinsamen Uno-No-Mercy-Abend am Campus Gummersbach. Uno No Mercy ist die schärfere Variante des Klassikers mit zusätzlichen Karten und härteren Konsequenzen, was für viel Spannung und gute Stimmung sorgt. Bei Snacks und Getränken wird in wechsel",
+    "details": "Ein Orga-Team veranstaltet einen gemeinsamen Uno-No-Mercy-Abend am Campus Gummersbach. Uno No Mercy ist die schärfere Variante des Klassikers mit zusätzlichen Karten und härteren Konsequenzen, was für viel Spannung und gute Stimmung sorgt. Bei Snacks und Getränken wird in wechselnden Runden gespielt, am Ende steht ein Sieger oder eine Siegerin fest. Ziel ist ein entspannter, geselliger Abend mit gesundem Wettbewerb.\n\n## Zielgruppe\n\n- Studierende des Moduls „Communityprojekt\"\n- Interessierte Studierende aus dem Studiengang Medieninformatik\n\n## Ziel der Aktion\n\n- Unterhaltung und Gemeinschaft\n- Kennenlernen und lockerer Austausch in ungezwungener Atmosphäre\n\n## Teamgröße\n\n- Orga-Team: 2 Personen\n\n## Vorbereitungsaufwand\n\n### Orga-Team\n\n- Termin festlegen und mit dem Modul-Team abstimmen\n- Raum sichern (mit ausreichend Tischen und Sitzplätzen für parallele Runden)\n- Uno-No-Mercy-Kartenspiele besorgen (mindestens ein Set pro 6–8 Personen)\n- Turniermodus festlegen (mehrere Tische, Rotationsprinzip, Auswertung)\n- Snacks und Getränke planen\n- Ggf. kleine Preise für die Gewinner:innen organisieren\n- Kommunikationskanal aufsetzen (Slack-Channel, Mailingliste, Kalender-Einladung)\n- Einladung im Modul kommunizieren, idealerweise mit Anmeldung\n- Ablauf am Abend moderieren (Begrüßung, Regelrunde, Turnier, Auswertung)\n\n## Ort der Aktion\n\n- Campus Gummersbach\n\n## Dauer der Durchführung\n\n- Ca. 2 bis 3 Stunden\n\n## Benötigte Materialien & Ressourcen\n\n- Raum mit Tischen und Stühlen\n- Mehrere Uno-No-Mercy-Kartenspiele\n- Snacks und Getränke\n- Kleine Preise für den Sieger oder die Siegerin (optional)\n\n## Mitwirkung\n\n- Orga-Team: bitte in die Kommentare eintragen und @anna.stein markieren\n- Teilnehmer:innen: bitte in die Kommentare eintragen\n\n## Punkte-Vergabe\n\n- Organisation: 7 Punkte\n- Teilnahme: 5 Punkte\n- Sieger:in des Abends: zusätzlich 3 Punkte\n\n## Definition of Done\n\n### Orga-Team\n\n- Termin und Raum sind festgelegt und mit dem Modul-Team abgestimmt\n- Kartenspiele sind besorgt und in ausreichender Anzahl vorhanden\n- Turniermodus steht (Ablauf, Rotation, Auswertung)\n- Snacks und Getränke sind besorgt\n- Kommunikationskanal ist aufgesetzt\n- Einladung ist im Modul kommuniziert\n- Abend wurde durchgeführt (Aufbau, Turnier, Auswertung, Abbau)\n- Raum ist sauber hinterlassen\n- Aktion via Fotos und/oder Video dokumentiert: [Upload Link](https://th-koeln.sciebo.de/s/ctaKZ3NRRAEk6Za)\n\n### Teilnahme\n\n- Am Abend teilgenommen\n- An mehreren Runden Uno No Mercy mitgespielt\n- Dokumentation der Teilnahme erfolgt im Portfolio\n\n### Sieger:in des Abends (zusätzlich 3 Punkte)\n\n- Turnier gewonnen (gemäß vorab festgelegtem Turniermodus)",
+    "catchup": false
+  },
+  {
+    "id": 15,
+    "title": "Unterstützung bei der Absolventenfeier am 8. Mai",
+    "url": "https://git-ce.rwth-aachen.de/micgn/community-game/community-game-core/-/work_items/15",
+    "points": [
+      5
+    ],
+    "scopes": [
+      "Campus"
+    ],
+    "teams": [
+      "Miniteam"
+    ],
+    "status": "Finished",
+    "state": "closed",
+    "term": null,
+    "description": "Für die Absolventenfeier am Freitag, dem 8. Mai, werden helfende Hände für verschiedene Aufgaben benötigt, um unseren Absolvent*innen eine besondere Feierstunde zu bieten und einen reibungslosen Ablauf zu gewährleisten. Daher bitten wir um tatkräftige Unterstützung bei verschiede",
+    "details": "Für die Absolventenfeier am Freitag, dem 8. Mai, werden helfende Hände für verschiedene Aufgaben benötigt, um unseren Absolvent*innen eine besondere Feierstunde zu bieten und einen reibungslosen Ablauf zu gewährleisten.\n\nDaher bitten wir um tatkräftige Unterstützung bei verschiedenen Aufgaben während der Feier: 16:00–20:00 Uhr\n\nEs werden drei Personen gebraucht.",
+    "catchup": false
+  },
+  {
+    "id": 51,
+    "title": "Volleyball-Turnier",
+    "url": "https://git-ce.rwth-aachen.de/micgn/community-game/community-game-core/-/work_items/51",
+    "points": [
+      5,
+      10
+    ],
+    "scopes": [
+      "Campus",
+      "Modul",
+      "Studiengang"
+    ],
+    "teams": [
+      "Miniteam",
+      "Single"
+    ],
+    "status": "Accepted",
+    "state": "opened",
+    "term": null,
+    "description": "Beschreibung: Das Team organisiert ein Volleyball-Turnier und führt dieses auch durch. Das Volleyball-Turnier findet zwischen der verschiedenen Studiengängen der TH-Köln statt. Zielgruppe:",
+    "details": "**Beschreibung:**\n\nDas Team organisiert ein Volleyball-Turnier und führt dieses auch durch. Das Volleyball-Turnier findet zwischen der verschiedenen Studiengängen der TH-Köln statt.\n\n**Zielgruppe:**\n- alle die Interesse an Volleyball haben\n\n**Ziel der Aktion:**\n- Kennenlernen \n- Kontakte knüpfen\n\n**Teamgröße:**\n- 4-7 Personen (organisation)\n\n**Vorbereitungsaufwand:**\n- Spielfeld/ -Halle organisieren\n- Termin vereinbaren\n- Bälle, Pokale organisieren\n\n**Ort der Aktion:**\n- bevorzugt Beach Volleyballfeld beim Skatepark\n\n**Dauer der Durchführung:**\n- 4 Stunden\n\n**Benötigte Materialien & Ressourcen:**\n- Spielfeld/ -Halle\n- Bälle, Pokale\n- Verpflegung\n\n**Punktevergabe:**\n- für die Organisation: 10 Punkte\n- für die Teilnahme: 5 Punkte\n\n**Definition of Done**\n- Turnier vorbereitet und organisiert\n- Turnier durchgeführt\n- Aktion wurde mit ein paar Bilder und Videos dokumentiert: [Upload Link](https://th-koeln.sciebo.de/s/ctaKZ3NRRAEk6Za)",
+    "catchup": false
+  },
+  {
+    "id": 4,
+    "title": "Wahl zum coolsten Avatar / Spielfigur",
+    "url": "https://git-ce.rwth-aachen.de/micgn/community-game/community-game-core/-/work_items/4",
+    "points": [
+      1,
+      3,
+      5
+    ],
+    "scopes": [
+      "Modul"
+    ],
+    "teams": [
+      "Single"
+    ],
+    "status": "",
+    "state": "closed",
+    "term": null,
+    "description": "In dieser Aktion gestaltet jede Person eine eigene Spielfigur. Die Figur wird analog gebaut und anschließend fotografiert, sodass sie auch auf einem digitalen Spielbrett genutzt werden kann. Am Ende werden alle Figuren gemeinsam betrachtet und es findet eine Abstimmung statt. Zie",
+    "details": "In dieser Aktion gestaltet jede Person eine eigene Spielfigur. Die Figur wird analog gebaut und anschließend fotografiert, sodass sie auch auf einem digitalen Spielbrett genutzt werden kann.\nAm Ende werden alle Figuren gemeinsam betrachtet und es findet eine Abstimmung statt. Ziel ist es, die kreativsten und interessantesten Figuren sichtbar zu machen.\n\n## Definition of Done\n\n- Du hast eine eigene Spielfigur gestaltet und sie wurde für die Nutzung im digitalen Spielbrett fotografiert.\n- Deine Figur wurde in der Gruppe präsentiert.\n- Du hast an der Abstimmung teilgenommen.\n\nDie drei Figuren mit den meisten Stimmen erhalten Aktionspunkte:\n- Platz 1 erhält fünf Punkte\n- Platz 2 erhält drei Punkte\n- Platz 3 erhält einen Punkt",
+    "catchup": false
+  },
+  {
+    "id": 63,
+    "title": "Wie kommen Erstis zur Medieninformatik?",
+    "url": "https://git-ce.rwth-aachen.de/micgn/community-game/community-game-core/-/work_items/63",
+    "points": [
+      9
+    ],
+    "scopes": [
+      "Studiengang"
+    ],
+    "teams": [
+      "Single"
+    ],
+    "status": "Accepted",
+    "state": "opened",
+    "term": null,
+    "description": "Beim Recap zum Studieninfotag haben wir gesammelt, wie Sie selbst vom Studiengang erfahren haben und welche Fragen Sie vor dem Studium hatten. Jetzt fragen wir die, die gerade erst angefangen haben. Die Antworten helfen dabei, Studieninfotag, Website und Kommunikation besser auf ",
+    "details": "Beim Recap zum Studieninfotag haben wir gesammelt, wie Sie selbst vom Studiengang erfahren haben und welche Fragen Sie vor dem Studium hatten. Jetzt fragen wir die, die gerade erst angefangen haben. Die Antworten helfen dabei, Studieninfotag, Website und Kommunikation besser auf Studieninteressierte auszurichten.\n\n## Wirkungskreis\n\n- Studiengang\n\n## Zielgruppe\n\n- Alle Teilnehmenden des Community-Projekt-Moduls\n\n## Ziel der Aktion\n\n- Herausfinden, über welche Wege neue Studierende zur Medieninformatik kommen\n- Verstehen, was bei der Studienwahl überzeugt hat und was gefehlt hat\n- Ideen für die Akquise von Studieninteressierten entwickeln\n\n## Teamgröße\n\n- 1 Person\n- Diese Aktion kann nur einmal vergeben werden\n\n## Aufgaben\n\n- Einen kurzen Interviewleitfaden mit fünf bis sieben Fragen erstellen, z. B.: Wie haben Sie vom Studiengang erfahren? Was hat Sie überzeugt? Welche Alternativen hatten Sie? Welche Fragen hatten Sie vor dem Studium? Wie war der erste Eindruck?\n- Zehn Erstsemester persönlich befragen (jeweils 5 bis 10 Minuten)\n- Antworten anonymisiert festhalten und auswerten\n- Ergebnisse als Infografik aufbereiten\n\n## Definition of Done\n\n- Der Interviewleitfaden liegt vor\n- Zehn Interviews sind geführt und anonymisiert dokumentiert\n- Eine Infografik zeigt: Kanäle, über die die Erstis vom Studiengang erfahren haben, wichtigste Entscheidungsgründe, offene Fragen vor dem Studium\n- Mindestens fünf Original-Zitate sind enthalten\n- Drei konkrete Ideen für Studieninfotag oder Akquise sind formuliert\n- Bitte keine KI-generierten Texte. Uns interessiert Ihr Blick, nicht der eines Sprachmodells\n- Abschluss: eine Sprachnachricht oder ein Video von maximal 2 Minuten, in dem Sie das Ergebnis vorstellen\n- Alle Ergebnisse sind im Issue verlinkt\n\n## Punktevergabe\n\n- 9 Punkte\n\n## Mitwirkung\n\n- Bitte tragen Sie sich mit Namen in den Kommentaren ein. Wer sich zuerst einträgt, bekommt die Aktion.",
+    "catchup": true
+  },
+  {
+    "id": 16,
+    "title": "Workshop \"Digitale Kommunikation\" organisiert und durchgeführt",
+    "url": "https://git-ce.rwth-aachen.de/micgn/community-game/community-game-core/-/work_items/16",
+    "points": [
+      10
+    ],
+    "scopes": [
+      "Modul"
+    ],
+    "teams": [
+      "Miniteam"
+    ],
+    "status": "",
+    "state": "opened",
+    "term": null,
+    "description": "Beschreibung: Das Team führt mit Kinder im Alter von ca. 9-12 Jahren einen interaktiven Workshop zum Thema \"Digitale Kommunikation\" durch. Gemeinsam besprechen wir typische Situationen aus Klassenchats, zum Beispiel Spam, Beleidigungen, Missverständnisse, Ausschluss oder Kettenbr",
+    "details": "**Beschreibung:**\n\nDas Team führt mit Kinder im Alter von ca. 9-12 Jahren einen interaktiven Workshop zum Thema \"Digitale Kommunikation\" durch. Gemeinsam besprechen wir typische Situationen aus Klassenchats, zum Beispiel Spam, Beleidigungen, Missverständnisse, Ausschluss oder Kettenbriefe. Anschließend entwickeln die Kinder eigene Regeln für einen fairen und sicheren Umgang im Chat.\n\n**Zielgruppe:**\n- Kinder im Alter von ca. 9-12 Jahren\n- z.B. aus einer Schulklasse, OGS-Gruppe, Jugendgruppe oder Medien-AG\n\n**Ziel des Workshops:**\n- Kinder für respektvolle digitale Kommunikation zu sensibilisieren\n- sie sollen verstehen, dass Online-Kommunikation reale Auswirkungen hat\n\n**Teamgröße:**\n- 3 bis 5 Personen\n\n**Vorbereitungsaufwand:**\n- Workshop-Aufbau planen\n- Beispielsituationen vorbereiten\n- kindgerechte Materialien vorbereiten\n- Einverständnis und Termin mit Schule/Betreuung abklären\n- Moderationskarten oder Arbeitsblätter vorbereiten\n\n**Ort der Aktion:**\n- TH Köln Gummersbach\noder\n- an der Schule selber\n\n**Dauer der Durchführung:**\n- 60 bis 90 Minuten\n\n**Benötigte Materialien & Ressourcen**\n- Raum\n- Beamer/ Bildschirm\n- Stifte\n- Plakate\n- vorbereitete Chat-Beispiele\n- evtll. Tablet/ Laptops\n\n**Grundlage:**\n- Grundlagen aus Social Computing sinnvoll, insbesondere digitale Kommunikation, Gruppenverhalten, Online-Communities, soziale Normen und Medienkompetenz\n\n**Mögliche Folgeaktionen:**\n- ein Plakat: \"Unsere Klassenchat-Regeln\"\n- eine digitale Checkliste\n- kleiner Leitfaden für die Eltern\n- evtll. zweite Aktion\n\n\n**Definition of Done**\n- Workshop vorbereitet und dokumentiert\n- Workshop durchgeführt\n\n[cp-kommunikation.pdf](/uploads/d9372864e732e661f7f2caf4e70ba1b4/cp-kommunikation.pdf)",
+    "catchup": false
+  },
+  {
+    "id": 44,
+    "title": "Workshop Fotografie mit analogen Kameras",
+    "url": "https://git-ce.rwth-aachen.de/micgn/community-game/community-game-core/-/work_items/44",
+    "points": [
+      5,
+      10
+    ],
+    "scopes": [
+      "Modul",
+      "Studiengang"
+    ],
+    "teams": [
+      "Miniteam",
+      "Single"
+    ],
+    "status": "Accepted",
+    "state": "opened",
+    "term": null,
+    "description": "Beschreibung Ein gemeinsamer Foto-Nachmittag am Campus Gummersbach: Die Teilnehmenden ziehen los und fotografieren nach einem vorher festgelegten Motto oder freien Themen. Am Ende werden die Ergebnisse in einer kleinen „Ausstellung\" gemeinsam gesichtet und besprochen. Neben dem k",
+    "details": "## Beschreibung\n\nEin gemeinsamer Foto-Nachmittag am Campus Gummersbach: Die Teilnehmenden ziehen los und fotografieren nach einem vorher festgelegten Motto oder freien Themen. Am Ende werden die Ergebnisse in einer kleinen „Ausstellung\" gemeinsam gesichtet und besprochen. Neben dem kreativen Spaß geht es um den geschulten Blick, den Austausch über Bildideen und das gemeinsame Erleben.\n\n## Zielgruppe\n\n- Alle Mitglieder des Campus Gummersbach (Studierende, Mitarbeitende, Lehrende)\n- Interessierte am Fotografieren, unabhängig vom Erfahrungsstand\n\n## Ziel der Aktion\n\n- Kreativer Austausch und gemeinsames Erleben\n- Blick für Motive, Perspektiven und Bildaufbau schärfen\n- Community durch ein gemeinsames Format zusammenbringen\n\n## Teamgröße\n\n- Orga-Team: 2 bis 3 Personen\n\n## Termin & Ort\n\n- Termin: nach Absprache\n- Ort: Campus Gummersbach und Umgebung\n\n## Dauer der Durchführung\n\n- Foto-Session: ca. 1 Stunde\n- Ausstellung und Austausch: ca. 1 Stunde\n\n## Benötigte Materialien & Ressourcen\n\n- Smartphone oder Kamera (bringen Teilnehmende mit)\n- Raum mit Bildschirm oder Beamer für die Ausstellung\n- Foto-Sharing-Plattform (gemeinsamer Cloud-Ordner, Padlet o. Ä.)\n\n## Vorbereitungsaufwand\n\n### Orga-Team (2–3 Personen, einmalig)\n\n- Konzept festlegen: Format, Motto oder Themen, Ort, Regeln, Ablauf\n- Termin festlegen und mit dem Modul-Team abstimmen\n- Raum für die Ausstellungsphase sichern (mit Bildschirm oder Beamer)\n- Kommunikationskanal aufsetzen (Slack-Channel, Mailingliste, Kalender-Einladung)\n- Einladung campusweit kommunizieren (Aushänge, Campus-Newsletter, andere Fachbereiche)\n- Foto-Sharing-Plattform aufsetzen und Link teilen\n- Ablauf am Tag moderieren (Start, Foto-Session, Ausstellung, Austausch)\n\n### Teilnehmer:innen (pro Termin)\n\n- Smartphone oder Kamera mitbringen\n- Vorab kurz überlegen, ob spezielle Motive oder Perspektiven interessieren\n\n## Mitwirkung\n\n- Orga-Team: bitte in die Kommentare eintragen und @anna.stein markieren\n- Teilnehmer:innen: bitte in die Kommentare eintragen\n\n## Punkte-Vergabe\n\n- Organisation: 5 Punkte\n- Teilnahme: 3 Punkte\n\n## Definition of Done\n\n### Orga-Team (einmalig, 10 Punkte)\n\n- Konzept ist dokumentiert (Format, Motto, Ort, Regeln, Ablauf)\n- Termin und Raum stehen und sind mit dem Modul-Team abgestimmt\n- Einladung ist campusweit kommuniziert (nicht nur im eigenen Modul), z. B. über Aushänge, Campus-Newsletter oder Info an andere Fachbereiche\n- Foto-Sharing-Plattform ist aufgesetzt und allen Teilnehmenden bekannt\n- Aktion wurde durchgeführt (Foto-Session und Ausstellung mit Austausch)\n\n### Teilnahme (pro Termin, 5 Punkte)\n\n- Am Foto-Nachmittag teilgenommen\n- Mehrere eigene Fotos während der Session aufgenommen\n- Fotos auf der Sharing-Plattform abgelegt\n- Aktive Teilnahme an der Ausstellung und am Austausch (eigene Bilder vorgestellt, Rückmeldung zu Bildern anderer gegeben)\n- Dokumentation der Teilnahme erfolgt im Portfolio\n- Fotos sind hochgeladen: [Upload Link](https://th-koeln.sciebo.de/s/ctaKZ3NRRAEk6Za)",
+    "catchup": false
+  },
+  {
+    "id": 2,
+    "title": "Übernahme von Check-in/ Warmup an einem Termin",
+    "url": "https://git-ce.rwth-aachen.de/micgn/community-game/community-game-core/-/work_items/2",
+    "points": [
+      1
+    ],
+    "scopes": [
+      "Modul"
+    ],
+    "teams": [
+      "Miniteam",
+      "Single"
+    ],
+    "status": "Accepted",
+    "state": "opened",
+    "term": null,
+    "description": "Ich möchte ich jeder Veranstaltung ein Warm-up, ein Check-in oder irgendwas, was das Ankommen erleichtert und locker macht. Mitwirkung Bitte als Assignee eintragen",
+    "details": "Ich möchte ich jeder Veranstaltung ein Warm-up, ein Check-in oder irgendwas, was das Ankommen erleichtert und locker macht. \n\n## Mitwirkung\n- Bitte als Assignee eintragen\n- Timing bitte vorher mit @christian.noss via Kommentar in diesem Issue abstimmen.\n\n## Definition of Done\n- Warm-up in einer Veranstaltung durchgeführt \n\n## Begrenzt verfügbar?\nja, daher bitte bei Interesse als Assignee hinzufügen",
+    "catchup": false
+  }
+]
