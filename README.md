@@ -14,7 +14,7 @@ Im Projektordner `python3 -m http.server 8000` ausführen und `http://localhost:
 
 ## Aktionsliste aktualisieren
 
-Das Python-Skript lädt die aktuellen Issues aus GitLab und schreibt `data/actions.json` neu. Dafür ist ein persönlicher GitLab-Zugangsschlüssel mit `read_api` nötig. Er darf nicht in Projektdateien stehen.
+Das Python-Skript lädt die aktuellen Issues aus GitLab und schreibt `data/actions.json` neu. Dafür braucht es einen GitLab-Zugangsschlüssel. Hier wird ein auf `micgn/community-game/community-game-core` begrenzter Fine-grained Token mit `Work Item: Read` verwendet. Ein klassischer Token mit `read_api` funktioniert ebenfalls, kann aber alle Projekte lesen, auf die das eigene Konto Zugriff hat. Der Schlüssel darf nicht in Projektdateien stehen.
 
 ```sh
 export GITLAB_TOKEN='DEIN_TOKEN'
@@ -24,4 +24,4 @@ unset GITLAB_TOKEN
 
 ## Veröffentlichung
 
-GitHub Pages veröffentlicht die Seite über `.github/workflows/pages.yml`. Bei jedem Commit wird sie neu bereitgestellt. Ein täglicher Lauf kann auch Änderungen aus GitLab übernehmen: Dazu muss in den GitHub-Einstellungen ein Repository Secret namens `GITLAB_TOKEN` hinterlegt sein. Solange es fehlt, verwendet die Seite die gespeicherte `data/actions.json`. Der Schlüssel wird weder im Repository noch auf der Website veröffentlicht.
+GitHub Pages veröffentlicht die Seite über `.github/workflows/pages.yml`. Bei jedem Commit wird sie neu bereitgestellt. Außerdem lädt ein täglicher Lauf die aktuellen Aktionen aus GitLab, solange das Repository Secret `GITLAB_TOKEN` gültig ist. Ohne Schlüssel verwendet die Seite die gespeicherte `data/actions.json`. Der Schlüssel wird weder im Repository noch auf der Website veröffentlicht.
